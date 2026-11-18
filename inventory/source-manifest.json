@@ -1,0 +1,1185 @@
+[
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\campaign-apis.Rproj",
+    "repository_path": "source/campaign-apis/campaign-apis.Rproj",
+    "source_sha256": "463c0fddefa46d3ba3b090b38e0e4028d3aaca9589f6cc9e291e216f9830ad20",
+    "copy_sha256": "c18b78af23d3b85aa81340d73fe186923d7310043f550aeb38ef7a32e2c1227e",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\config.yml",
+    "repository_path": "source/campaign-apis/config.yml",
+    "source_sha256": "71f9c504c0c412bb04bd20997ebeeb4fd745e229868dbef4b38ddfdecd8d68f2",
+    "copy_sha256": "b24e9fc89b8dd7e7ce53bff797d284130a092c57e270effd6c64b2effb5f6679",
+    "sanitized": true,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\admin_panel_api.R",
+    "repository_path": "source/campaign-apis/Auto/admin_panel_api.R",
+    "source_sha256": "6f07094b037a2ae24c9d718eb54abe30e64901213ea3c0d88b956e8ea701300d",
+    "copy_sha256": "ce2e7939e5d0901b794c89a49ffbc000ede1dc9a69596366327460935bab1713",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\backup_schema.R",
+    "repository_path": "source/campaign-apis/Auto/backup_schema.R",
+    "source_sha256": "97ee97d30087b95c4717e2abee4e9997ca71e95655fa68a102232971692c3532",
+    "copy_sha256": "4b35c01169feca0f718d82af00605e6ba63b9799fe39b33a9b0b806f702461b0",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\campaign_master_api.R",
+    "repository_path": "source/campaign-apis/Auto/campaign_master_api.R",
+    "source_sha256": "d2dd5c560161a3fb30072d3ac0d580b2960eb440cf8c075183c5bdbadd6383f3",
+    "copy_sha256": "0a987d9b669c17b7db7169c4bc295e447718063d6b5fdd996d3cc0a2c83e7961",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\check_customer_type_api.R",
+    "repository_path": "source/campaign-apis/Auto/check_customer_type_api.R",
+    "source_sha256": "ba80b5324d4da4afb3ef257f9fb74593bd95c9a06d7108dbd673777ea23d4ca8",
+    "copy_sha256": "dd2f29fae840b003a34caaa13c3f33d713e253fa616547941bcea1eb0ddaadb1",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\customer_variables_api.R",
+    "repository_path": "source/campaign-apis/Auto/customer_variables_api.R",
+    "source_sha256": "d0e40382d67caf50369fbe0b9de3722654d31b28e8df91fa3b7aa7ee251794b2",
+    "copy_sha256": "469a1eff1b27223f2fda96cf14ab5405d1ce9441cc6f826ebcde85a0688f04f0",
+    "sanitized": true,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\data_export_api.R",
+    "repository_path": "source/campaign-apis/Auto/data_export_api.R",
+    "source_sha256": "a40a600d27f0693934b23fed6d592e2c642ae21d0cc8a2ce6e6ea120302cc949",
+    "copy_sha256": "3e196751b9e54616242d68cb6d5ffb90c740723f1fa7bf6334c4709eac2b0e27",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\data_fetch_api.R",
+    "repository_path": "source/campaign-apis/Auto/data_fetch_api.R",
+    "source_sha256": "ef76b5a77682ad96de4f5c591df55f0bb0dea6819728b21ef22e98dc2e4ceb10",
+    "copy_sha256": "05a7b6d5015bc927c4d64f412c2a1e565d1bf2a9a2ea9d2d6585f1b0f7b616e6",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\data_save_api.R",
+    "repository_path": "source/campaign-apis/Auto/data_save_api.R",
+    "source_sha256": "c3faceed4cfc6987a53d5a12c74b4beb42b7b7ff7737ca51383d7f48d177ecd9",
+    "copy_sha256": "4a5ca01fab2743efd3227340b56649bb7d2ec4b9a4f81dd5144d1d418ed29c1b",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\generate_calcualated_fields.R",
+    "repository_path": "source/campaign-apis/Auto/generate_calcualated_fields.R",
+    "source_sha256": "2b56f445bcd7ab8320a772e6fded9ee2d518d6bc3367a89d0907ebae66b3e2f1",
+    "copy_sha256": "c3b79c6cebfeed95b8e95fd47b9e905e7097ad4565895aa5e8549cb7e3ff1adb",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\schedule_campaign_master.R",
+    "repository_path": "source/campaign-apis/Auto/schedule_campaign_master.R",
+    "source_sha256": "73447d40418c0f2f6e705f8c842258b2b8dcdaf1382ec04bb48ebfb29cf1faa5",
+    "copy_sha256": "2aa367e31d7dec9535e8090ba49f30b832863cf0273d28fe1127947914da527d",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\schema_generator.R",
+    "repository_path": "source/campaign-apis/Auto/schema_generator.R",
+    "source_sha256": "fa92679e7c961ae08706c888a4453a3d61232a5fe1db392b27707edce78cf298",
+    "copy_sha256": "2807792f05bcb86a3e2bf7c4dc25741863e456e6a074ec9ab8b0386a6daa4687",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\schema_generator_api.R",
+    "repository_path": "source/campaign-apis/Auto/schema_generator_api.R",
+    "source_sha256": "bcfc7711c49f6b8f976e9a7b236907f2f11c24c17c7a5c06cb9eb6908236ef16",
+    "copy_sha256": "e51e48b55620477e41656efdb26a249e98e83abf30efcbfa2777431d38dddaf3",
+    "sanitized": true,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\update_admin_panel.R",
+    "repository_path": "source/campaign-apis/Auto/update_admin_panel.R",
+    "source_sha256": "37aaac203e11618b493faba5f0a629cf049bbe95d71d5a5b394f51102e545c75",
+    "copy_sha256": "dd5f3a36a5543f4a10146772c51435c62fefa33b689194be78fd70de173814f7",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\chatbot_lib.R",
+    "repository_path": "source/campaign-apis/Auto/library/chatbot_lib.R",
+    "source_sha256": "f24ef84201d7536885515055136f95cd71162f51a4c4c0fffd93f0b54e332b00",
+    "copy_sha256": "2848746e01a402091856fff316fec55de3b238baf4a9c103ddc5146034696edf",
+    "sanitized": true,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\daily-kpi-lib.R",
+    "repository_path": "source/campaign-apis/Auto/library/daily-kpi-lib.R",
+    "source_sha256": "574a0d73dad27a5187a7f0f282ac2ce122ad8efab81a6dc0febe847ff31e11d0",
+    "copy_sha256": "57ee39843f1ae30fb9118410a7a5756778495a067b02a7dc4b322254576e29f9",
+    "sanitized": true,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\data_save_api.R",
+    "repository_path": "source/campaign-apis/Auto/library/data_save_api.R",
+    "source_sha256": "a29000e191a9591a3aa47402718f163fd0f1bc74afe1079f635269bc08a48b45",
+    "copy_sha256": "106d1cd7eefc85ca5c165bda7f29aa7e34663aaff62061c2f9dfb05b4d383a47",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\genome-lib.R",
+    "repository_path": "source/campaign-apis/Auto/library/genome-lib.R",
+    "source_sha256": "954ce99653a2d69fb64883743f2833f487ae4d0e1cbfeeadf3a7f8a2ee3ff886",
+    "copy_sha256": "366e677b863b963418562fac618f0306b865195ef7d43256ad91d9a784c9f371",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\log_lib.R",
+    "repository_path": "source/campaign-apis/Auto/library/log_lib.R",
+    "source_sha256": "b08890ed21444d1e9fbccf749f9719e8ff592d325dd6cd254b918e4dca793fdb",
+    "copy_sha256": "d14d3c54a8a0abf5be21e7a387d0b83e2f5fb7019a6ea989548a132f4ffa3ce3",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\read_folder_function(READ_FOLDER).R",
+    "repository_path": "source/campaign-apis/Auto/library/read_folder_function(READ_FOLDER).R",
+    "source_sha256": "0e257d71396d2c027ed7ef9668c757f340248528cbf1968233e76e01558327fb",
+    "copy_sha256": "9f5f8dbb31f44d6f02c90d24eb23e4f12c9354804d65c02d0dc52420072c3fdd",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\host\\host_admin_panel.R",
+    "repository_path": "source/campaign-apis/host/host_admin_panel.R",
+    "source_sha256": "9322ead9cb8ef57a8ef3d2dad8b00bedf734f012ebc3850a3d8d66a54d03a66c",
+    "copy_sha256": "35309f17165abcbef3471d26fdfee9fed6aada8eba66bb4e18311f53f3dd5a9e",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\host\\host_campaign_master_api.R",
+    "repository_path": "source/campaign-apis/host/host_campaign_master_api.R",
+    "source_sha256": "187c36e60435ebe069aff86f14e53b18cbe1b00a23d5c4ea96fbb55197ec95ae",
+    "copy_sha256": "7d1a140795f9ac0cde03e4d97e5d1f211c7f660851777253df75c576f7a79530",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\host\\host_check_customer_type.R",
+    "repository_path": "source/campaign-apis/host/host_check_customer_type.R",
+    "source_sha256": "7a9da0ca1c71688a9bf30a32eb2e188e1bff8c5b326b0a3fb7d3e3669cd305c5",
+    "copy_sha256": "8b3b1abd2aa3bf8842a1cfe2b73e18bd93c77a791ee50c4eb71ccace5855ccb9",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\host\\host_data_export.R",
+    "repository_path": "source/campaign-apis/host/host_data_export.R",
+    "source_sha256": "d75aa3ec812aee63ec5a06755581a0f274f15c653930155848944ebb74d1e4c4",
+    "copy_sha256": "951d2d581b51c152c1c50539d68860e51b3b250304969a635377d3fdbf84a4b8",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\host\\host_data_fetch_api.R",
+    "repository_path": "source/campaign-apis/host/host_data_fetch_api.R",
+    "source_sha256": "22c77ea11b87a6bc7f77f3f09070827272fb6875a456920311c40618dcb82fb9",
+    "copy_sha256": "7bce9a5a697376314b5a3b71489518bfbf75ef95aafafc777e0ad000ea38c265",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\host\\host_data_save_api.R",
+    "repository_path": "source/campaign-apis/host/host_data_save_api.R",
+    "source_sha256": "1933e1a8a7532e2b59dec09317db079c850e9b80be18d1104f3c8726b4df2f9b",
+    "copy_sha256": "4d2bfb249b3b70d93a6119a3f911fa57d4233f42f30475e723e3283ce340639d",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\host\\host_schema_generator.R",
+    "repository_path": "source/campaign-apis/host/host_schema_generator.R",
+    "source_sha256": "144b6985a11efe78249beda3a1e7a8aacc73b3dc6087ccec0626ded0c4ae2882",
+    "copy_sha256": "bbee7bd8399d7b1137390a202420b68978eb450b91d7224a7f710b092bc7399f",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\host\\host_variable_dictionary.R",
+    "repository_path": "source/campaign-apis/host/host_variable_dictionary.R",
+    "source_sha256": "b93671637a0397d23ad9b37332583a28268b0e95367355e91bf371b7deea75d2",
+    "copy_sha256": "339f8799571586b4b6124abc7097eebd3370987dcec940450633ffc7cc638a46",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\clm_generators.Rproj",
+    "repository_path": "source/clm-generators/clm_generators.Rproj",
+    "source_sha256": "aa1bb6b4e0ed0325d1e781f5b6eacf7549b809566866accf8ca605331d136816",
+    "copy_sha256": "3a81ccc25a62f1a31c7d3404389935ced50831abea5e848408745ad1a1bf6126",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\config.yml",
+    "repository_path": "source/clm-generators/config.yml",
+    "source_sha256": "4e0abfdbfff3d2dd0e59d04339c712008f79eecde1cfea3e439153779c6c928b",
+    "copy_sha256": "bd47a2c33f54fccc44f9f0d64dd518fce7539b2022d42de450ed48f00a6bc186",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\naming_convention.txt",
+    "repository_path": "source/clm-generators/auto/naming_convention.txt",
+    "source_sha256": "607bdc30d16957f32e0cf568172be80b6f222d827f9dfd6856ea8afe1cc58cda",
+    "copy_sha256": "091e766a5fc7109b68687220aceb3a7794fcb7e10ebd72898699283c89243d6b",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\clm_generate_daily_customer_segments.R",
+    "repository_path": "source/clm-generators/auto/generate/clm_generate_daily_customer_segments.R",
+    "source_sha256": "29e2a7f3b3d255502e532e89eff748304ef7a6f74cc6581fac17ff9db2f08d90",
+    "copy_sha256": "202bf8a3310aabb9c00bfda6b12bf2d2cad82012bfda12410d9aa053d86c1126",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\abv_bucket.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/abv_bucket.R",
+    "source_sha256": "b5be93c9181b7dc2f8c3cf53b5cd9ed70917aa32e06a9205af1f53014561405b",
+    "copy_sha256": "48c1d826aa7cc7f3c4622360523a7393991e85d73c1ca8a73a224589dfb73528",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\active_group.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/active_group.R",
+    "source_sha256": "d39ea6ea3116d97f3f7d186ea1417489f945bc97430e932545b6a0b52e9b53f2",
+    "copy_sha256": "5ba65eeddb5280a5006add8472c01cdb9331f52a3285a7f23f66b305011920de",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\customer_type.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/customer_type.R",
+    "source_sha256": "e4179d5e4e98352ba3b21949beabc0652242243a8fba4dd44e70e2e566c06b51",
+    "copy_sha256": "7bb3795a39dbbfa4a6d39a86a90695c16a0292cc1d1e208e37d165ef164a2d29",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\customer_value_bucket_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/customer_value_bucket_segment.R",
+    "source_sha256": "f40cf37d2391ac1c76db94270ae364a63fb5edbb860fde8aa069978a1349d18e",
+    "copy_sha256": "422b9239daa5f679d854888f4f39fe2baaa7db2dd2e0fa2b02e92dbcdf663d47",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\discount_tier_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/discount_tier_segment.R",
+    "source_sha256": "16cd105a3fcc2b70292d1e19c3a2f9b29d12befa4d5b611dc631bd302522b7f0",
+    "copy_sha256": "02d3b65af487132fd49e98da3a59e05677e4e2d1d4e0918553fe5f762d29188e",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\divisions_multiple summer.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/divisions_multiple summer.R",
+    "source_sha256": "08fc3e2cc332eeb5c73705daede96c3676435c7ec198c472de4878dbe84ff6e5",
+    "copy_sha256": "b117a7f0fd2a994919f1640daba9001f9de1a4709f89e4c7c66ace7ee7cff95b",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\divisions_multiple_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/divisions_multiple_segment.R",
+    "source_sha256": "2cddb8e28eefc54e45a542a30d1b9a3a8017be531ed2a80f23bebb16759147c3",
+    "copy_sha256": "bbd13de2039839459ec7f36ea84ae23e7bf4dd91ccc16cd5acb03bec95804469",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\diwali_fest_prev_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/diwali_fest_prev_segment.R",
+    "source_sha256": "ab8b325fe14208632a0115fb883e202b01903dfe57fc8fa338a54ade51da50da",
+    "copy_sha256": "9b82335bc520faf6bcb3a85017ef496800bde6b86fb632b1c53e205e90d29217",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\diwali_fest_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/diwali_fest_segment.R",
+    "source_sha256": "7d741edfdbe088cd49b386c89d8fbe29f089ed7df8eba083d40dfe4b8d6a1b81",
+    "copy_sha256": "a5d3e9cef5efdc6430700bfe6904e1feaed806e31776647bd3aee2566e41d90e",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\dob_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/dob_segment.R",
+    "source_sha256": "32f73566c8c4aec57bd45a21d68d68cf3fe00384fd72792a1ac80fe68f5e7165",
+    "copy_sha256": "d172e8187c9b91968551dd75ac06c200fdfc72f24cfef8cc685bceeb05d8e0a2",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\early_adopter_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/early_adopter_segment.R",
+    "source_sha256": "227b7e23c8cd9e1e376425808dc2eb869b587329df77aa8af080f60ff9267958",
+    "copy_sha256": "db9f6e354cd1a394b34b380e428f66a0540fb45b5bae8220b0aeeb3c8ebe9583",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\engaged_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/engaged_segment.R",
+    "source_sha256": "c227375f89d6ab874d83d7f187ee841e0bba4babae136543760d0c7c91d13f6e",
+    "copy_sha256": "ca05232fdfbc9b54e95a133fca58df2eaf9aae4156cedb10afa691616e3c6ba7",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\eoss_early_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/eoss_early_segment.R",
+    "source_sha256": "0c87477db6193faf4753405558ef7d5879fcbc745547ff62eaa2fd19ff67266c",
+    "copy_sha256": "ab84d9c64134c1ef4e5d3face1227badd25f102c11ac1534e70769bfd28d6481",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\eoss_loyal_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/eoss_loyal_segment.R",
+    "source_sha256": "1a9d4ac611702bc7506281377b22fe068aa0cdbd9aebb7c7646db2f8245af1d3",
+    "copy_sha256": "bd6a39c501eb0af26b4fa8712dda6784c57bf6050c1c9cc86d0d79de1f6656cd",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\eoss_ras_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/eoss_ras_segment.R",
+    "source_sha256": "4c5d66ef17ba14a7ba4a4b46a5e1c86f03b2ce319239f65991e9cd0def450cd4",
+    "copy_sha256": "a3ceaf9135de04437b5a3a99538583cb58927e48e03d9f641f63da840c63c375",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\eoss_roi_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/eoss_roi_segment.R",
+    "source_sha256": "53f0134d7681ab22e268efd9508cd12de9614eabc630a128b85e2bb203cce7fe",
+    "copy_sha256": "e7b57659f593f6b4a5b9a49fde2b79dc6c91da56b0a9f2ea818727ae8e2bb1a0",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\eoss_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/eoss_segment.R",
+    "source_sha256": "0b62430cc0959744b49840a89d207c6478c8580cb772eb39de43c7fc22d39237",
+    "copy_sha256": "41051a6991516211fcaa0f7571f50dfebce88849762e60cfadfd5f5caf2191b7",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\family_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/family_segment.R",
+    "source_sha256": "ce08402e4be8ba1a5f1b51966ce7ba6ef97512da4e9831b5db1b1f38cc89026f",
+    "copy_sha256": "3efe5cf5f28a93d6655588581cd140e216cbaf1803ff635dcb31f322522da542",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\favorite_product_category_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/favorite_product_category_segment.R",
+    "source_sha256": "693daeda019bec4f3db70dc347a80f87312920bca7398880ba79fab04a763a5c",
+    "copy_sha256": "040ed403b41a48340ecefce3075b4a556aee30ef95ab12a9765dd711fefbb0e4",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\favorite_product_category_segment_01JAN2023.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/favorite_product_category_segment_01JAN2023.R",
+    "source_sha256": "4661832365565d4a1202517683b42d83b67d354938a025d10033db0b0cbb97b4",
+    "copy_sha256": "512eccd108450ccabcdbcd899cf2bb0c9521ffdf4d0c94280cf5250d51261b38",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\favorite_product_category_segment_new.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/favorite_product_category_segment_new.R",
+    "source_sha256": "9c99c2e099262e475e3055fd8eed0a725b161b9b79f0bffdfba157b7894b5e9a",
+    "copy_sha256": "a1d562f16e1d6432ffa59e88138d1e3b6c39a82d9a29428faf02bfac9f98cb35",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\fmcg_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/fmcg_segment.R",
+    "source_sha256": "8528e800a7fe887fddfb0b12e6c7fb2506d58d0a407e3bb24d745ac484f7f949",
+    "copy_sha256": "f679803fdfb05bfbbfd744b5e415c6e6ec1f5482746614d6bf87ef30edbc79cc",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\footmart_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/footmart_segment.R",
+    "source_sha256": "595faafa245bee9e7e9c687c3e4934658ad80fb38e49047115d2c9cc0a8dfe5a",
+    "copy_sha256": "cb2b9aa1bd0bbcc392ca524712f7a8c80028699486cd384c36e0970b26549b05",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\frequency.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/frequency.R",
+    "source_sha256": "9ad1dcf155367c2a736e2d1699e7b6a839768fccf18a986e7c957dd86e03cdfe",
+    "copy_sha256": "185d2da4f97f58db7e2dc424da485270fcda17c7891285cb83f8cd6e8c3a55c6",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\high_frequency_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/high_frequency_segment.R",
+    "source_sha256": "61f5a8189ca36fc869fbc62d5dd894d1d229ab8f990c02c1f070c33cab90e800",
+    "copy_sha256": "52b5697f70ed74c84904d61ae81970c1c837aa1e2bdba69a2158b82ea8b7c1dc",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\high_value_high_freq_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/high_value_high_freq_segment.R",
+    "source_sha256": "08d48bdbaa666c8a949cee6d3061da64d1d6ca0e6dfdd0d4321f962efecc1ad3",
+    "copy_sha256": "fbb9b11b04d492b85bab5535f203ed432c134c8340b4905cd0ee67a0f910afe0",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\high_value_one_timer_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/high_value_one_timer_segment.R",
+    "source_sha256": "0a8663bf35a30ef88bdf029ff5d54d07ef071c6a9acfbda37c3e1db66ca0a272",
+    "copy_sha256": "bc8797a202924ac7b04b82288489a695599c59e4201b8ae5d8a98c5c34180f19",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\high_value_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/high_value_segment.R",
+    "source_sha256": "27d52a96aeb45d06186b39cddc0728d5681df81bbac84e0bb5f4d24d55aec47b",
+    "copy_sha256": "c83cfec4df0cab65b1b806ba9fafd011877d44ce3284c686ad942969cc62bd0a",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\holiday_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/holiday_segment.R",
+    "source_sha256": "e0721ddcb51af734103dd30fb25cdddeff793704eb104354d3348656ebca2160",
+    "copy_sha256": "7c427b3b8186fa1ae3d6176116f194f1e3f6ae6bc56852633f9a4a2c09c6c535",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\holi_fest_prev_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/holi_fest_prev_segment.R",
+    "source_sha256": "272ead4a354277d4eb8805ab060bf293364d2e6e2f0e55fbbad2c7e194ae2793",
+    "copy_sha256": "2112e78612aff084c3ee232557757ea67f0b440c4cf5dd214bd46c9271d25503",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\holi_fest_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/holi_fest_segment.R",
+    "source_sha256": "a9eb4d67bbb91a4f9a649d187229bd843ed06caf386f320cb39b037abddb25e1",
+    "copy_sha256": "f5f8adfdf0ae19ae6642804e3570c44f363c8ce2e96b167f704bb3a51aefe9b4",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\homemart_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/homemart_segment.R",
+    "source_sha256": "211bae3faca6c53ea92c1a4d797b4d6dcd49934db4e69e6b470e3750e006469f",
+    "copy_sha256": "88ba7cd52a4f2ba11493e5011d266ec858754bf758c8873cef08ffa5331ecafd",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\kids_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/kids_segment.R",
+    "source_sha256": "e44e77c7362675e0cac863850d0f692745c6e9c5df85df81c1e173529889998e",
+    "copy_sha256": "073148d4eae27bda4e5a0af372ea36cd3914764b861f300c4729c2467bfad32b",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\latency_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/latency_segment.R",
+    "source_sha256": "59d9110eec6863b4a8cfc6f21d2836f2544602eb57554e858e6776422d11e007",
+    "copy_sha256": "29f8107478be7bfd8914e30a8a08bd1cba1915008c28a1e1d1bf0e78c3c0c0d9",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\mbdo_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/mbdo_segment.R",
+    "source_sha256": "3ebb9fc507fee5715fd95c6246360726364bffdbed469dfb1ff72c8cd77ae186",
+    "copy_sha256": "459b8ccb699a6b86801a835d0607b764982c3460a56b47cff5024bb246a5e8ae",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\merge_ras_eoss_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/merge_ras_eoss_segment.R",
+    "source_sha256": "0672f2cdb0e4d4ba3aedca686746b3e2e31b9cfa6f9d9c486f92dc939b651dc7",
+    "copy_sha256": "312656bf35f8cada9a8d8d2418b1e4048a9e0ef7a3bb1196c345309c86e8f6d7",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\MOM_family_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/MOM_family_segment.R",
+    "source_sha256": "2e159281b8707579e4fa158d199f941ffb3c41ef0e6d8240d199283404861715",
+    "copy_sha256": "f6873ec1b5379acb75b619f52c9e500fee43f43b6780ff28e667a8f8c324a793",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\most_preferred_division.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/most_preferred_division.R",
+    "source_sha256": "8d882177ecfb65d6b8a2d57e99b8fb62ba347f06317d9c73e9251a033101a756",
+    "copy_sha256": "7fb95b2431d98c3207dcfa20fe5a2880e4b92fb55176a05e19b611d64454ce03",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\muslim_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/muslim_segment.R",
+    "source_sha256": "48d09475f7bb0b427e7ee9eb8790cdfadf7e50d48e3ad61133bc013d5abafe06",
+    "copy_sha256": "3b926c8bf4fb1e69199161db62aa07269d2966585be286a927633152a7306485",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\new_customers.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/new_customers.R",
+    "source_sha256": "53abe92683b4e810c41375d52abd397bc253a612d0532890029e34c80dd55145",
+    "copy_sha256": "961f24a91d1c9e48639c75a322389af3afb4347666d39cebb8bbefa93dc17532",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\OLD_active_group.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/OLD_active_group.R",
+    "source_sha256": "3f740133bc69343cfe834a4430bffff26a6dea5b963c07c657267c073b4701e5",
+    "copy_sha256": "185814c6e16ec0b369e9cfdf2719e849e51695e06556ec9a1cc7d5b7d32c5845",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\pdc_fest_prev_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/pdc_fest_prev_segment.R",
+    "source_sha256": "c1bce07ff4ecb99c0fc0be3072d58b77bbb3d6b8ba457b55946bb0011fff5784",
+    "copy_sha256": "70a287b9e472192f8f6cdec4f7a90bdaa5d01995ec90e5cf59157563dfb0b5d8",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\pdc_fest_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/pdc_fest_segment.R",
+    "source_sha256": "61a75d05a08d5f9604a4309d27f1e6f6897c6ae916a7c1354aeae8ddbd6da04a",
+    "copy_sha256": "b8d3e33a6093f8285c59ed854d021337dda73ec8b2c1fae1a69f13447561c908",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\ras_eoss_ul_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/ras_eoss_ul_segment.R",
+    "source_sha256": "076522fae0964f418f88a834de22aa1617dfa79c2fbf84975c8fe33cc86ccdb9",
+    "copy_sha256": "36bb437c95cd197f968db86ea88a5e1da5a60885780f3b11c491193c1f2f9110",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\ras_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/ras_segment.R",
+    "source_sha256": "000c40c120a70f908c21b463df8dbf47f82b646e762eefad8855af80c6d1e577",
+    "copy_sha256": "df19e4bf83843461d86174a3e3ac84c0cd3a1682310319086fb9c6d4151712b9",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\rcs_reachable_customers_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/rcs_reachable_customers_segment.R",
+    "source_sha256": "115a2a3429a6c6c8964119b78d4d05ea99a8742c847ba6d36c26e59d7db73c71",
+    "copy_sha256": "dbb59045c925bc9940abb0566ef7bc1c82abd2d7edbd9224828fc0ac151f0170",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\recency_by_latency_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/recency_by_latency_segment.R",
+    "source_sha256": "3612801dbeff571d6d2939ba7c6e99b4dda475b6ff6d15cf7d0b90ab46e31ef5",
+    "copy_sha256": "980a16f6af42ef20fc1ddc51c2b85d0f2197d56a2e257b5aea78c499e28b197a",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\remove_dnd_customers.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/remove_dnd_customers.R",
+    "source_sha256": "e3f0adb64dec983f0cc871cacdca883b870687781424319ededca9db62b7adf2",
+    "copy_sha256": "2d7dd327ab852522666cce8683fc1277680d19fe6bf6efb0d4cde285a901c8c1",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\Season_launch_loyalist.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/Season_launch_loyalist.R",
+    "source_sha256": "ecc097fc58b244d6576b174e8b0d32f1671825a4f94f89e176ae018db77c7772",
+    "copy_sha256": "dd785277e11332c59a8b2843a4f1e11f9fc2a50fb794b97ccbcaa0cc136ab14a",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\Season_launch_SS23_AW23.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/Season_launch_SS23_AW23.R",
+    "source_sha256": "b94b34a5a97b8d4146bd268e74e6d6c41fd311b3e7698fb2768629cb7c65dcec",
+    "copy_sha256": "ea99f82c298f42af677408c7716d803b5b781785817a94315a7f69861f5132f5",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\Segment_rfm.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/Segment_rfm.R",
+    "source_sha256": "a2f8256a6f0f1397017e3c068f38dc3bcd5449ec73c1cb290a6d4c6c173696d4",
+    "copy_sha256": "e8ecb04136256be3c41bd56c7026ce86150646745542894fd630960644eac8cd",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\segment_store_type.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/segment_store_type.R",
+    "source_sha256": "94e6b4ee2f21f2ae2bc2ef933bdaa5c17ac7cc9560e87730cfd12ccc2bb574ad",
+    "copy_sha256": "c50c656ef9e23d109bf72c58f55fa92d1f9b14760ca038af5d31b081a28698f8",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\sms_reachable_customers_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/sms_reachable_customers_segment.R",
+    "source_sha256": "0e7dd762247f105ac15dd714e7a4d12b13f5a1cd0b63d8198fb77faf000dca7e",
+    "copy_sha256": "22c369e1761c284dd7f3241fca3c47b72b8bc003c8148193bde3f6c6f6a1ca77",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\storewise_active_family_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/storewise_active_family_segment.R",
+    "source_sha256": "581062b664c1d5c27c1e353c203c5baa92f2745db627380428e46eeb34371a92",
+    "copy_sha256": "5a5d5f2c72eed7c887407182590a7e494b75ff66dfb02b6ff19833b56621bf57",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\storewise_muslim_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/storewise_muslim_segment.R",
+    "source_sha256": "4abce684cf6ece49fe1018917998014556987410639a27870727f93ff4380daa",
+    "copy_sha256": "e175ee09d58fd0aa44cb4debe9ab84abe2aad43e174a324e63b199b4c485b19d",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\store_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/store_segment.R",
+    "source_sha256": "06ddee154def2b454a6ff5896ff788aa12d536c4edc98600725d20adacb702bb",
+    "copy_sha256": "7b43dec36f00190a6af925109a8e449178067a772efd41e4f1aff08a28d07bc8",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\summer_season_early_adopters.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/summer_season_early_adopters.R",
+    "source_sha256": "f81b561cfe84a0a36948ca817b107750919ee6fa40847ada84c68d771b709e79",
+    "copy_sha256": "10b3a95c071af034e78319b47097291e4c4aa5fc638e1e89e1df23a1167cfaee",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\vip_hbv_2000_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/vip_hbv_2000_segment.R",
+    "source_sha256": "e1b5b637acf8008da128d519783d2b561589180eb9e1cfb6d40d43227216df0d",
+    "copy_sha256": "31359ba89e459c9bb5f9fd760c660196d05d90a61779f5d5a01e34a7cc471841",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\vip_hbv_5000_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/vip_hbv_5000_segment.R",
+    "source_sha256": "5409427acc5db337b976f3451c7fea6d9cc795061352c5bf202446f13148a32d",
+    "copy_sha256": "23e0a1c7d3b9da29c4a92a6bef513a0a9f48276fe2f5d36c69ada589f73b2be4",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\vip_most_engaged_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/vip_most_engaged_segment.R",
+    "source_sha256": "ddb8e77aa4bce9b670774043dc69403abf566ea5e3f7fe5292871828572d01d7",
+    "copy_sha256": "bdfddc7514908f9237519cbe42933cfda75becfbbc933242df4e435dfddaa4d6",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\vip_need_more_visits_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/vip_need_more_visits_segment.R",
+    "source_sha256": "d4ee7b52e76570a38f2b070be202ced6c332762d9ae51128a87a295352105ec1",
+    "copy_sha256": "cef444fce296d08f6f430de83d1d46215bb818ca9e5fa1237905c3c7e3b27137",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\waba_reachable_customers_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/waba_reachable_customers_segment.R",
+    "source_sha256": "d36af5191ccd56b1d735ec7371be4ac9b291b2b60ce9686254e5d27fa5a9555c",
+    "copy_sha256": "7a99d7497bc7d401a5bfb21a61957fe43ebcf76da8710ec3dee09d6642369b39",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\wedding_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/wedding_segment.R",
+    "source_sha256": "4941803acb876d4c6694159329b952a781299ffc34c29452bc3825b3f277b1d0",
+    "copy_sha256": "ac7fc9e22f419d14fe72cdc4694b944938bb34410e27447c457fe785855f099e",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\winter_season_early_adopters.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/winter_season_early_adopters.R",
+    "source_sha256": "3bff6a9864d44931ef0d3fab83de857809b8d9f0f8aec460e2e259aaecc09b49",
+    "copy_sha256": "1e62157741b29cc7df2a393e849706bc723dd84ae4e72b257a07dde2efb963ee",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\winter_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/winter_segment.R",
+    "source_sha256": "f778cdd9e005ac8f0427dfa0f311348001805ef883965a16beb2dff83d449bce",
+    "copy_sha256": "913eac69793769dc3818819168b1ac8d564cbf95f6e60709bc07884236cba010",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\youth_segment.R",
+    "repository_path": "source/clm-generators/auto/generate/segments/youth_segment.R",
+    "source_sha256": "4798a1b37825c718f0ecdf0667e8de365d4280136d6e65333d43a802dc1978b0",
+    "copy_sha256": "f051a421639348149a9e3813d39205cc76db94ed243ed49547b5b49765eb0346",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\activate_segments - Copy.bat",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/activate_segments - Copy.bat",
+    "source_sha256": "feb17af294af5d85e80e35ce81a5f4543570402aa701c9bf1257a5ce37b76c86",
+    "copy_sha256": "989200ddc889457172df1add177c47d7021638f2db2c28942829621eb72bc8e9",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\activate_segments.bat",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/activate_segments.bat",
+    "source_sha256": "fd82599c64eceaf140db18c9521819b5cfd496337fc705ee5792ca264bc6703a",
+    "copy_sha256": "09fdc934a52fa832d55f257f4a1bb516c84b646e664046b9ea3cf571ef5d1a1f",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\activate_segment_updation.bat",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/activate_segment_updation.bat",
+    "source_sha256": "75484de430657e8ab23bdf01a4bbf38a88ae8a1acf6262cd6ca3142c3199c8ab",
+    "copy_sha256": "7e3e06c5cc5d4e798641798bc92374e708cfaa11ad3cf081de66b7b80afd387f",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\app.ipynb",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/app.ipynb",
+    "source_sha256": "eb762b0cae06d16cfa6edce4aa2a7f8f8e9ee7653278836fb51e8c100a68b2fb",
+    "copy_sha256": "7907847038dcbe52f04a944aee6fd8879de12920ea91fb23784e3ad49dd7f5e9",
+    "sanitized": false,
+    "notebook_outputs_removed": true
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\app.py",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/app.py",
+    "source_sha256": "d0a74fc9051f5e5d27e3e163ce3b81dbb4875232f48ce3dbc6e5d3d1b1fab990",
+    "copy_sha256": "7629ef3feb034d504f92b8ecaf204e0024eca03ce240dcc466c48bf257bcf515",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\connection.py",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/connection.py",
+    "source_sha256": "a0e7cb3d5815439d451b945f244c3cf12bcf81dd027d975a32d1f3701a8fc4e4",
+    "copy_sha256": "aae9616e72721b9ab3aa4edfac71cf4b99f39f4f4bc12d3015a171bef6c76ac3",
+    "sanitized": true,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\query_loader.py",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/query_loader.py",
+    "source_sha256": "4a1c28df0c91969465d8682c01d88fb60558d31c858a227cd154ebd302020888",
+    "copy_sha256": "302f4840db8f3828c8cecb1ca0685aff7f48549e4d791a115a35c30c6346a7ab",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\requirement.txt",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/requirement.txt",
+    "source_sha256": "beef51a1695b1a6a9a7bb72ca9ed6b06d2cf422487428186a33d5e9683d9a771",
+    "copy_sha256": "4573d7f37a131d7a14c7219e1f81849b71f185e0a4e7a5c32c0b1ad2bc91ef4a",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\segment_active_store.py",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/segment_active_store.py",
+    "source_sha256": "161673545d0fbd9e4231f7697359200df09195dcffcecccfbc7bebf05fcb714d",
+    "copy_sha256": "7a3aeef0ac8a56d678d72db7dc4e3c455c855f64f7bd99bd0511837c15b2b7f1",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\segment_coupon_users.py",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/segment_coupon_users.py",
+    "source_sha256": "46b95f55f967c22268007f5c476b81347c34e1f51b4b5384ec4dd890b17d160d",
+    "copy_sha256": "46204bccaaf073fc61d7a209e447ed9d97423c0ff431c961fe1960852849e68d",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\segment_ethnicity.py",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/segment_ethnicity.py",
+    "source_sha256": "a62759518cdc20ad4054409cbe99efb413a28ff95dce171f5d42be6dabd80393",
+    "copy_sha256": "77002befc82e5d5abaeb2ad9139d2bfe2d2dd07f4ae8fb2f260e1c63113c2838",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\segment_fmcg_new.py",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/segment_fmcg_new.py",
+    "source_sha256": "15b6ab085534b98032cd00db3a0e72f15cffa1b09198749df663c859cdd4f2c9",
+    "copy_sha256": "0bfd96a3e4cc0b059bedd3e0991131d204e2d21ca0b79c6af97503e2f476d417",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\segment_language.py",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/segment_language.py",
+    "source_sha256": "fa594d809ad268502881ecdb72f5e150fad8179ad098ee0fc568b1a9402a2527",
+    "copy_sha256": "fa73d34144f0b9bef2204599d52cbb133bb5bb11f36d5a008e3742df083fb45a",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\segment_language_state_low_performing_new.py",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/segment_language_state_low_performing_new.py",
+    "source_sha256": "258f430acb20e0805e8e0e6890377ce7bc675055e472813858e5051cb62049af",
+    "copy_sha256": "cd6dea9448f402a298b8f85d5af8c886fdd6e2522cd09ab604e798c9b1ce4c7c",
+    "sanitized": true,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\segment_religion.py",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/segment_religion.py",
+    "source_sha256": "e5907a0540a398dcdf00253327b069c897329551a104f1992879dff5f9c7ba7b",
+    "copy_sha256": "9be40498a3dea46997f446a9369dbef068683199796807c3cc245cf4c8e3c47e",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\segment_state.py",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/segment_state.py",
+    "source_sha256": "06b1101edc5e890bbbdb94c79c2a46262e0f9307bde66ea5c1057f42899556a0",
+    "copy_sha256": "3dbb3636976642ed80985e8dd1908ddc3b91f1242438e356b421a7a4dc12d620",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\segment_teenz.py",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/segment_teenz.py",
+    "source_sha256": "53080e1fa134e5fa45253ce52031c973593cda14930131f76684c61a84f88dc7",
+    "copy_sha256": "3bff2314d45ef0fdbe931343235039fbe675d114dea0c23c8b4afb51813db83f",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\seg_low_performing_store_old.py",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/seg_low_performing_store_old.py",
+    "source_sha256": "2bc53cbbe8f0b65bfc1853b21dc8303e48c43c7ba65a62e7458266f1e7297446",
+    "copy_sha256": "06cb6ecffafca3b95f90d8147cd9b3686625f8751380759c6962eb2b8e7788ed",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\Seg_Lr_App_Active.py",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/Seg_Lr_App_Active.py",
+    "source_sha256": "0c702223f4d83099e8d8e0eb0066079c0ecc48bb1c8d348566fc04a7464c5abd",
+    "copy_sha256": "8672ee773874ad6c122e9cb0f0e889fb4c2afa23c10b03238de1b45852d2987e",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\queries\\1.regenerate_annual_txn_base.sql",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/queries/1.regenerate_annual_txn_base.sql",
+    "source_sha256": "9f5464d78c30e84c345f1d0e0b2e99579e0f8155d9cc806390b4495e609d4eab",
+    "copy_sha256": "d8ab92b2be3b47a01f5371b77fc18eedacd790d2ecec565910af960784a27369",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\queries\\2.regenerate_last_two_fy_txn.sql",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/queries/2.regenerate_last_two_fy_txn.sql",
+    "source_sha256": "79de105bdd5bfcdd20ef8297a40d4afa1c337d637bc7c1baba013cbdccb5caae",
+    "copy_sha256": "0cb5777122d7832c58965a906a122020157b689024e2cce84a08f7561ccf9cbe",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\queries\\3.regenerate_last_four_FY_txn.sql",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/queries/3.regenerate_last_four_FY_txn.sql",
+    "source_sha256": "b45945c29de0198952e9b2ba39efa30b56912836238c2280537d69d1c17db4a6",
+    "copy_sha256": "2a4679b480557c1ca47d90af01bea0105e1af5d503dcb3b0c5057e4f08cd1ad8",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\queries\\4.clustering_customer_visit_summary_2326.SQL",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/queries/4.clustering_customer_visit_summary_2326.SQL",
+    "source_sha256": "82e1959b2b4e9145ed5bc6632f099ce26a9d9415ceb2339c1d0ea4f0a7b667dc",
+    "copy_sha256": "ef1a8083771fdc8a784a144845874474e0a1c0b01f5c79cfc474994f5f4d4dd1",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\queries\\5.customer_category_features_with_flags_2326.sql",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/queries/5.customer_category_features_with_flags_2326.sql",
+    "source_sha256": "4e8f9796ea777ec2dc76fa437bffd0832f31355a7e484fea99ab3bc6c907c765",
+    "copy_sha256": "fc75fd218b8e1b4d1e6deb1b933d35b30c95c369688f38afe55d769edf0858e1",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\queries\\Q6.sql",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/queries/Q6.sql",
+    "source_sha256": "0ac6ce6daea8a0fe5392cf7843eb9e60f37599bc36a32ba910bb55f19b96118e",
+    "copy_sha256": "a5249377beef57eb61091b402d9a390f274f4a037105c2ee6ee8477b22470210",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\queries\\Q7.sql",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/queries/Q7.sql",
+    "source_sha256": "c46b11948831dc0d0259d32a3bf9c82a315deb27cb9d118b98cbfd7df746a0e8",
+    "copy_sha256": "099c641678826169bdc50b68eb902de1d994ae07c7d9c1ce9eaf199627f9a7dd",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\queries\\Q8_V2.sql",
+    "repository_path": "source/clm-generators/auto/generate/segments/python_scripts/queries/Q8_V2.sql",
+    "source_sha256": "fc5099bbd1ae306d7a61be855e2c0b90030a7713a07f3567cf5d3c75fcdeab44",
+    "copy_sha256": "2e7c6ec392243e1e215b3767e80eef3439557c283fb8c2aa7e3aa2a254c3c9ab",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\library\\break_and_save_function(BREAK_AND_SAVE).R",
+    "repository_path": "source/clm-generators/auto/library/break_and_save_function(BREAK_AND_SAVE).R",
+    "source_sha256": "618703c274b6b875bfbebc25cfac39cd424ed0fc8f09c17570ef53b3188dce6b",
+    "copy_sha256": "e4beb684e92b7d998bd05bd91acd2c8bbb0d0044e02e617e35fb0e57612b4f96",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\library\\chatbot-lib.R",
+    "repository_path": "source/clm-generators/auto/library/chatbot-lib.R",
+    "source_sha256": "f24ef84201d7536885515055136f95cd71162f51a4c4c0fffd93f0b54e332b00",
+    "copy_sha256": "2848746e01a402091856fff316fec55de3b238baf4a9c103ddc5146034696edf",
+    "sanitized": true,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\library\\log_lib.R",
+    "repository_path": "source/clm-generators/auto/library/log_lib.R",
+    "source_sha256": "b08890ed21444d1e9fbccf749f9719e8ff592d325dd6cd254b918e4dca793fdb",
+    "copy_sha256": "d14d3c54a8a0abf5be21e7a387d0b83e2f5fb7019a6ea989548a132f4ffa3ce3",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\library\\MOB_CHECK_function.R",
+    "repository_path": "source/clm-generators/auto/library/MOB_CHECK_function.R",
+    "source_sha256": "f736c60b6248228648ef5a73ee3ae53f806818fa3af436bae5c96b81a1cf8ca6",
+    "copy_sha256": "9208cf909542aa24609b3d1f2e4b5cb7c19d7e4fac94d752c8e44f5633ab0ef4",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\library\\read_folder_function(READ_FOLDER).R",
+    "repository_path": "source/clm-generators/auto/library/read_folder_function(READ_FOLDER).R",
+    "source_sha256": "0de4f3aae53097d9010f1fa382d7ffac0e212bcb9557cbde409bcbc0f7e04d40",
+    "copy_sha256": "b4a59d3bdfc629b4feafe393109d5c99b20caa512b34fd9020cf9e11a7eb503f",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\library\\required_period_function(REQUIRED_PERIODS).R",
+    "repository_path": "source/clm-generators/auto/library/required_period_function(REQUIRED_PERIODS).R",
+    "source_sha256": "2ab48915067f38ff4157286e99ae392c93d54697ca60cc729ead8029ee65dc9b",
+    "copy_sha256": "7863f5a7f125b14140fe1d8a53dce8a9703d7cb9e9b725a552c77eceb23f45fb",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\library\\cpm\\read_folder_function(READ_FOLDER).R",
+    "repository_path": "source/clm-generators/auto/library/cpm/read_folder_function(READ_FOLDER).R",
+    "source_sha256": "9ecf7f74b087ba546ece910c6f9669a5dd0a0e8a8cf87135fb2a0d9e5564ca03",
+    "copy_sha256": "faa1c48ba116e88144c323c8ca08f112b7f5df787d680a95547ff47692edb39c",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\digital_filter_data.Rproj",
+    "repository_path": "source/digital-filter-data/digital_filter_data.Rproj",
+    "source_sha256": "aa1bb6b4e0ed0325d1e781f5b6eacf7549b809566866accf8ca605331d136816",
+    "copy_sha256": "3a81ccc25a62f1a31c7d3404389935ced50831abea5e848408745ad1a1bf6126",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\Readme.md",
+    "repository_path": "source/digital-filter-data/Readme.md",
+    "source_sha256": "19815b7690786756b8659fc055a2b71d9e31f6418034cf8cefbaefeb0d8240f1",
+    "copy_sha256": "4f328cccc03cbfdadfce96c63688bd399d774d8647af8294d3f6d481a3cf5157",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\auto\\filter_api.R",
+    "repository_path": "source/digital-filter-data/auto/filter_api.R",
+    "source_sha256": "ab1632be174a99523a7b0ef27176113b3fd3c2b77cb8118861b3896e01dcd2da",
+    "copy_sha256": "7c3aaf35f6a1a737616a0ffd0b189b540531b66f4f92843290b639ce02abc8cf",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\auto\\filter_api_final.R",
+    "repository_path": "source/digital-filter-data/auto/filter_api_final.R",
+    "source_sha256": "28e92a46b186e84abdd4db96f7b8d81f08445362adb795e57caf3ae985601427",
+    "copy_sha256": "a829127132d75cc4e07058c0f0f0d2b3d793ce4a6bb37387d92d74055fc538dd",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\auto\\filter_api_test.R",
+    "repository_path": "source/digital-filter-data/auto/filter_api_test.R",
+    "source_sha256": "6505583a23a5376f2dd75ec5e020d612c4a3e5a5a86a81291cdf611900f52b9e",
+    "copy_sha256": "5ba22cc7138026b3d39a2463ace4690bedf15f553d518e1191eacfcd66957f7c",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\auto\\testing_data_filter.R",
+    "repository_path": "source/digital-filter-data/auto/testing_data_filter.R",
+    "source_sha256": "e5936aaa115bba510de55e56bc4732cd90e7bc0fa3dd8cd4b6e334ecfe0ff688",
+    "copy_sha256": "391665915726657f995e8f2eeccde203606752390049134cf439a56b2c6cef57",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\host\\host_filter_api.R",
+    "repository_path": "source/digital-filter-data/host/host_filter_api.R",
+    "source_sha256": "792834953cddeedfba7829b7bd9ee436c27620eabe5315f219055a3f84ee904d",
+    "copy_sha256": "6ca3dc704c8075e4296ee516a09cbbfb18cffff9126758c0965e954a25d4479b",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\host\\host_filter_api_test.R",
+    "repository_path": "source/digital-filter-data/host/host_filter_api_test.R",
+    "source_sha256": "f7f000e31b782a6196a6e715c3a184014880fa278491ee287f7ffb77f369d459",
+    "copy_sha256": "a2286d963dfee59f6407d681287998e8e525e4fe19948110c7920aafe2102edf",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "C:\\Users\\prachi.gangwar\\Documents\\ChatGPT\\Campaign Manager Prepration\\campaign-segment-builder\\plugin.json",
+    "repository_path": "source/campaign-segment-builder/plugin.json",
+    "source_sha256": "f062996f1dcfb18ea61b0d68cd4c0d839de020939e06820faf77196d58641a81",
+    "copy_sha256": "f062996f1dcfb18ea61b0d68cd4c0d839de020939e06820faf77196d58641a81",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "C:\\Users\\prachi.gangwar\\Documents\\ChatGPT\\Campaign Manager Prepration\\campaign-segment-builder\\README.md",
+    "repository_path": "source/campaign-segment-builder/README.md",
+    "source_sha256": "ed653586c94cdfaa1749de556e6bb17973407603ac1ca7678eb78b9ef33982b0",
+    "copy_sha256": "ed653586c94cdfaa1749de556e6bb17973407603ac1ca7678eb78b9ef33982b0",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "C:\\Users\\prachi.gangwar\\Documents\\ChatGPT\\Campaign Manager Prepration\\campaign-segment-builder\\.codex-plugin\\plugin.json",
+    "repository_path": "source/campaign-segment-builder/.codex-plugin/plugin.json",
+    "source_sha256": "4db692f1c530a2074803ecb4639cfe0b1a586fc4eb3d0c030cfb7230867673f1",
+    "copy_sha256": "4db692f1c530a2074803ecb4639cfe0b1a586fc4eb3d0c030cfb7230867673f1",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "C:\\Users\\prachi.gangwar\\Documents\\ChatGPT\\Campaign Manager Prepration\\campaign-segment-builder\\skills\\create-campaign-segment\\SKILL.md",
+    "repository_path": "source/campaign-segment-builder/skills/create-campaign-segment/SKILL.md",
+    "source_sha256": "2a6ad76a67aa621771f5239cf171295a2dc0b74747764c8944bff17a9d5d2f4c",
+    "copy_sha256": "2a6ad76a67aa621771f5239cf171295a2dc0b74747764c8944bff17a9d5d2f4c",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "C:\\Users\\prachi.gangwar\\Documents\\ChatGPT\\Campaign Manager Prepration\\campaign-segment-builder\\skills\\create-campaign-segment\\references\\environment.md",
+    "repository_path": "source/campaign-segment-builder/skills/create-campaign-segment/references/environment.md",
+    "source_sha256": "22a7e91b336be33a3253175a1d125cab805ce5035dea33fca2b0a517e0d5141c",
+    "copy_sha256": "22a7e91b336be33a3253175a1d125cab805ce5035dea33fca2b0a517e0d5141c",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "C:\\Users\\prachi.gangwar\\Documents\\ChatGPT\\Campaign Manager Prepration\\campaign-segment-builder\\skills\\create-campaign-segment\\references\\review-checklist.md",
+    "repository_path": "source/campaign-segment-builder/skills/create-campaign-segment/references/review-checklist.md",
+    "source_sha256": "ee10877ed883f21429b46d480a357e058985c947a44bf269ec2ba427c78a9e07",
+    "copy_sha256": "ee10877ed883f21429b46d480a357e058985c947a44bf269ec2ba427c78a9e07",
+    "sanitized": false,
+    "notebook_outputs_removed": false
+  },
+  {
+    "source": "C:\\Users\\prachi.gangwar\\Downloads\\Campaign master whole process.docx",
+    "repository_path": "docs/reference/Campaign master whole process.docx",
+    "source_sha256": "1d9ce583f0079a1a4fcd8e4309b418240f69cf8725aad7d151b032989102d991",
+    "copy_sha256": "1d9ce583f0079a1a4fcd8e4309b418240f69cf8725aad7d151b032989102d991",
+    "sanitized": false
+  }
+]

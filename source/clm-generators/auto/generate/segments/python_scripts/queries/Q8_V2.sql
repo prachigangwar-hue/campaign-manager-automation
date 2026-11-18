@@ -1,0 +1,47 @@
+CREATE OR REPLACE TABLE temp_db.an_customer_personas_intuitive_v2
+ENGINE = MergeTree
+ORDER BY CUSTOMER_MOBILE AS
+SELECT
+   *,
+----sql
+   --------------------------------------------------------------------
+   -- New Columns: Most Revenue Super Category and Most Revenue Detailed Category
+   -- Using nested CASE WHEN / multiIf with GREATEST (Robust Method)
+   --------------------------------------------------------------------
+   -- Most Revenue Super Category (by highest revenue sum)
+   CASE
+       WHEN Total_Revenue_2Year IS NULL OR Total_Revenue_2Year <= 0 THEN 'No Revenue'
+       ELSE multiIf(
+           Adult_REV_SUM >= GREATEST(Kids_Toys_REV_SUM, Household_Home_FMCG_Staples_REV_SUM, Others_REV_SUM), 'Adult',
+           Kids_Toys_REV_SUM >= GREATEST(Adult_REV_SUM, Household_Home_FMCG_Staples_REV_SUM, Others_REV_SUM), 'Kids_or_Toys',
+           Household_Home_FMCG_Staples_REV_SUM >= GREATEST(Adult_REV_SUM, Kids_Toys_REV_SUM, Others_REV_SUM), 'Household_or_Home_or_FMCG_or_Staples',
+           Others_REV_SUM >= GREATEST(Adult_REV_SUM, Kids_Toys_REV_SUM, Household_Home_FMCG_Staples_REV_SUM), 'Others',
+           'Unknown_Super_Category' -- Fallback (should not be hit if Total_Revenue > 0 and components are non-negative)
+       )
+   END AS Most_Revenue_Super_Category,
+   -- Most Revenue Detailed Category (by highest percentage of total revenue)
+   CASE
+       WHEN Total_Revenue_2Year IS NULL OR Total_Revenue_2Year <= 0 THEN 'No_Revenue'
+       ELSE multiIf(
+           Boys_Junior_PCT_REVENUE >= GREATEST(Boys_Senior_PCT_REVENUE, Toddler_PCT_REVENUE, FMCG_Food_PCT_REVENUE, Infant_PCT_REVENUE, FMCG_Non_Food_PCT_REVENUE, Women_PCT_REVENUE, Men_PCT_REVENUE, Girls_Junior_PCT_REVENUE, Girls_Senior_PCT_REVENUE, Others_PCT_REVENUE, Home_Mart_PCT_REVENUE, Boys_PCT_REVENUE, Girls_PCT_REVENUE, Staples_PCT_REVENUE, Toys_PCT_REVENUE, Women_Ethnic_PCT_REVENUE, Women_Western_PCT_REVENUE), 'Boys_Junior',
+           Boys_Senior_PCT_REVENUE >= GREATEST(Boys_Junior_PCT_REVENUE, Toddler_PCT_REVENUE, FMCG_Food_PCT_REVENUE, Infant_PCT_REVENUE, FMCG_Non_Food_PCT_REVENUE, Women_PCT_REVENUE, Men_PCT_REVENUE, Girls_Junior_PCT_REVENUE, Girls_Senior_PCT_REVENUE, Others_PCT_REVENUE, Home_Mart_PCT_REVENUE, Boys_PCT_REVENUE, Girls_PCT_REVENUE, Staples_PCT_REVENUE, Toys_PCT_REVENUE, Women_Ethnic_PCT_REVENUE, Women_Western_PCT_REVENUE), 'Boys_Senior',
+           Toddler_PCT_REVENUE >= GREATEST(Boys_Junior_PCT_REVENUE, Boys_Senior_PCT_REVENUE, FMCG_Food_PCT_REVENUE, Infant_PCT_REVENUE, FMCG_Non_Food_PCT_REVENUE, Women_PCT_REVENUE, Men_PCT_REVENUE, Girls_Junior_PCT_REVENUE, Girls_Senior_PCT_REVENUE, Others_PCT_REVENUE, Home_Mart_PCT_REVENUE, Boys_PCT_REVENUE, Girls_PCT_REVENUE, Staples_PCT_REVENUE, Toys_PCT_REVENUE, Women_Ethnic_PCT_REVENUE, Women_Western_PCT_REVENUE), 'Toddler',
+           FMCG_Food_PCT_REVENUE >= GREATEST(Boys_Junior_PCT_REVENUE, Boys_Senior_PCT_REVENUE, Toddler_PCT_REVENUE, Infant_PCT_REVENUE, FMCG_Non_Food_PCT_REVENUE, Women_PCT_REVENUE, Men_PCT_REVENUE, Girls_Junior_PCT_REVENUE, Girls_Senior_PCT_REVENUE, Others_PCT_REVENUE, Home_Mart_PCT_REVENUE, Boys_PCT_REVENUE, Girls_PCT_REVENUE, Staples_PCT_REVENUE, Toys_PCT_REVENUE, Women_Ethnic_PCT_REVENUE, Women_Western_PCT_REVENUE), 'FMCG_Food',
+           Infant_PCT_REVENUE >= GREATEST(Boys_Junior_PCT_REVENUE, Boys_Senior_PCT_REVENUE, Toddler_PCT_REVENUE, FMCG_Food_PCT_REVENUE, FMCG_Non_Food_PCT_REVENUE, Women_PCT_REVENUE, Men_PCT_REVENUE, Girls_Junior_PCT_REVENUE, Girls_Senior_PCT_REVENUE, Others_PCT_REVENUE, Home_Mart_PCT_REVENUE, Boys_PCT_REVENUE, Girls_PCT_REVENUE, Staples_PCT_REVENUE, Toys_PCT_REVENUE, Women_Ethnic_PCT_REVENUE, Women_Western_PCT_REVENUE), 'Infant',
+           FMCG_Non_Food_PCT_REVENUE >= GREATEST(Boys_Junior_PCT_REVENUE, Boys_Senior_PCT_REVENUE, Toddler_PCT_REVENUE, FMCG_Food_PCT_REVENUE, Infant_PCT_REVENUE, Women_PCT_REVENUE, Men_PCT_REVENUE, Girls_Junior_PCT_REVENUE, Girls_Senior_PCT_REVENUE, Others_PCT_REVENUE, Home_Mart_PCT_REVENUE, Boys_PCT_REVENUE, Girls_PCT_REVENUE, Staples_PCT_REVENUE, Toys_PCT_REVENUE, Women_Ethnic_PCT_REVENUE, Women_Western_PCT_REVENUE), 'FMCG_Non_Food',
+           Women_PCT_REVENUE >= GREATEST(Boys_Junior_PCT_REVENUE, Boys_Senior_PCT_REVENUE, Toddler_PCT_REVENUE, FMCG_Food_PCT_REVENUE, Infant_PCT_REVENUE, FMCG_Non_Food_PCT_REVENUE, Men_PCT_REVENUE, Girls_Junior_PCT_REVENUE, Girls_Senior_PCT_REVENUE, Others_PCT_REVENUE, Home_Mart_PCT_REVENUE, Boys_PCT_REVENUE, Girls_PCT_REVENUE, Staples_PCT_REVENUE, Toys_PCT_REVENUE, Women_Ethnic_PCT_REVENUE, Women_Western_PCT_REVENUE), 'Women',
+           Men_PCT_REVENUE >= GREATEST(Boys_Junior_PCT_REVENUE, Boys_Senior_PCT_REVENUE, Toddler_PCT_REVENUE, FMCG_Food_PCT_REVENUE, Infant_PCT_REVENUE, FMCG_Non_Food_PCT_REVENUE, Women_PCT_REVENUE, Girls_Junior_PCT_REVENUE, Girls_Senior_PCT_REVENUE, Others_PCT_REVENUE, Home_Mart_PCT_REVENUE, Boys_PCT_REVENUE, Girls_PCT_REVENUE, Staples_PCT_REVENUE, Toys_PCT_REVENUE, Women_Ethnic_PCT_REVENUE, Women_Western_PCT_REVENUE), 'Men',
+           Girls_Junior_PCT_REVENUE >= GREATEST(Boys_Junior_PCT_REVENUE, Boys_Senior_PCT_REVENUE, Toddler_PCT_REVENUE, FMCG_Food_PCT_REVENUE, Infant_PCT_REVENUE, FMCG_Non_Food_PCT_REVENUE, Women_PCT_REVENUE, Men_PCT_REVENUE, Girls_Senior_PCT_REVENUE, Others_PCT_REVENUE, Home_Mart_PCT_REVENUE, Boys_PCT_REVENUE, Girls_PCT_REVENUE, Staples_PCT_REVENUE, Toys_PCT_REVENUE, Women_Ethnic_PCT_REVENUE, Women_Western_PCT_REVENUE), 'Girls_Junior',
+           Girls_Senior_PCT_REVENUE >= GREATEST(Boys_Junior_PCT_REVENUE, Boys_Senior_PCT_REVENUE, Toddler_PCT_REVENUE, FMCG_Food_PCT_REVENUE, Infant_PCT_REVENUE, FMCG_Non_Food_PCT_REVENUE, Women_PCT_REVENUE, Men_PCT_REVENUE, Girls_Junior_PCT_REVENUE, Others_PCT_REVENUE, Home_Mart_PCT_REVENUE, Boys_PCT_REVENUE, Girls_PCT_REVENUE, Staples_PCT_REVENUE, Toys_PCT_REVENUE, Women_Ethnic_PCT_REVENUE, Women_Western_PCT_REVENUE), 'Girls_Senior',
+            Others_PCT_REVENUE >= GREATEST(Boys_Junior_PCT_REVENUE, Boys_Senior_PCT_REVENUE, Toddler_PCT_REVENUE, FMCG_Food_PCT_REVENUE, Infant_PCT_REVENUE, FMCG_Non_Food_PCT_REVENUE, Women_PCT_REVENUE, Men_PCT_REVENUE, Girls_Junior_PCT_REVENUE, Girls_Senior_PCT_REVENUE, Home_Mart_PCT_REVENUE, Boys_PCT_REVENUE, Girls_PCT_REVENUE, Staples_PCT_REVENUE, Toys_PCT_REVENUE, Women_Ethnic_PCT_REVENUE, Women_Western_PCT_REVENUE), 'Others',
+           Home_Mart_PCT_REVENUE >= GREATEST(Boys_Junior_PCT_REVENUE, Boys_Senior_PCT_REVENUE, Toddler_PCT_REVENUE, FMCG_Food_PCT_REVENUE, Infant_PCT_REVENUE, FMCG_Non_Food_PCT_REVENUE, Women_PCT_REVENUE, Men_PCT_REVENUE, Girls_Junior_PCT_REVENUE, Girls_Senior_PCT_REVENUE, Others_PCT_REVENUE, Boys_PCT_REVENUE, Girls_PCT_REVENUE, Staples_PCT_REVENUE, Toys_PCT_REVENUE, Women_Ethnic_PCT_REVENUE, Women_Western_PCT_REVENUE), 'Home_Mart',
+           Boys_PCT_REVENUE >= GREATEST(Boys_Junior_PCT_REVENUE, Boys_Senior_PCT_REVENUE, Toddler_PCT_REVENUE, FMCG_Food_PCT_REVENUE, Infant_PCT_REVENUE, FMCG_Non_Food_PCT_REVENUE, Women_PCT_REVENUE, Men_PCT_REVENUE, Girls_Junior_PCT_REVENUE, Girls_Senior_PCT_REVENUE, Others_PCT_REVENUE, Home_Mart_PCT_REVENUE, Girls_PCT_REVENUE, Staples_PCT_REVENUE, Toys_PCT_REVENUE, Women_Ethnic_PCT_REVENUE, Women_Western_PCT_REVENUE), 'Boys',
+           Girls_PCT_REVENUE >= GREATEST(Boys_Junior_PCT_REVENUE, Boys_Senior_PCT_REVENUE, Toddler_PCT_REVENUE, FMCG_Food_PCT_REVENUE, Infant_PCT_REVENUE, FMCG_Non_Food_PCT_REVENUE, Women_PCT_REVENUE, Men_PCT_REVENUE, Girls_Junior_PCT_REVENUE, Girls_Senior_PCT_REVENUE, Others_PCT_REVENUE, Home_Mart_PCT_REVENUE, Boys_PCT_REVENUE, Staples_PCT_REVENUE, Toys_PCT_REVENUE, Women_Ethnic_PCT_REVENUE, Women_Western_PCT_REVENUE), 'Girls',
+           Staples_PCT_REVENUE >= GREATEST(Boys_Junior_PCT_REVENUE, Boys_Senior_PCT_REVENUE, Toddler_PCT_REVENUE, FMCG_Food_PCT_REVENUE, Infant_PCT_REVENUE, FMCG_Non_Food_PCT_REVENUE, Women_PCT_REVENUE, Men_PCT_REVENUE, Girls_Junior_PCT_REVENUE, Girls_Senior_PCT_REVENUE, Others_PCT_REVENUE, Home_Mart_PCT_REVENUE, Boys_PCT_REVENUE, Girls_PCT_REVENUE, Toys_PCT_REVENUE, Women_Ethnic_PCT_REVENUE, Women_Western_PCT_REVENUE), 'Staples',
+           Toys_PCT_REVENUE >= GREATEST(Boys_Junior_PCT_REVENUE, Boys_Senior_PCT_REVENUE, Toddler_PCT_REVENUE, FMCG_Food_PCT_REVENUE, Infant_PCT_REVENUE, FMCG_Non_Food_PCT_REVENUE, Women_PCT_REVENUE, Men_PCT_REVENUE, Girls_Junior_PCT_REVENUE, Girls_Senior_PCT_REVENUE, Others_PCT_REVENUE, Home_Mart_PCT_REVENUE, Boys_PCT_REVENUE, Girls_PCT_REVENUE, Staples_PCT_REVENUE, Women_Ethnic_PCT_REVENUE, Women_Western_PCT_REVENUE), 'Toys',
+           Women_Ethnic_PCT_REVENUE >= GREATEST(Boys_Junior_PCT_REVENUE, Boys_Senior_PCT_REVENUE, Toddler_PCT_REVENUE, FMCG_Food_PCT_REVENUE, Infant_PCT_REVENUE, FMCG_Non_Food_PCT_REVENUE, Women_PCT_REVENUE, Men_PCT_REVENUE, Girls_Junior_PCT_REVENUE, Girls_Senior_PCT_REVENUE, Others_PCT_REVENUE, Home_Mart_PCT_REVENUE, Boys_PCT_REVENUE, Girls_PCT_REVENUE, Staples_PCT_REVENUE, Toys_PCT_REVENUE, Women_Western_PCT_REVENUE), 'Women_Ethnic',
+           Women_Western_PCT_REVENUE >= GREATEST(Boys_Junior_PCT_REVENUE, Boys_Senior_PCT_REVENUE, Toddler_PCT_REVENUE, FMCG_Food_PCT_REVENUE, Infant_PCT_REVENUE, FMCG_Non_Food_PCT_REVENUE, Women_PCT_REVENUE, Men_PCT_REVENUE, Girls_Junior_PCT_REVENUE, Girls_Senior_PCT_REVENUE, Others_PCT_REVENUE, Home_Mart_PCT_REVENUE, Boys_PCT_REVENUE, Girls_PCT_REVENUE, Staples_PCT_REVENUE, Toys_PCT_REVENUE, Women_Ethnic_PCT_REVENUE), 'Women_Western',
+           'Unknown Detailed Category' -- Fallback
+       )
+   END AS Most_Revenue_Detailed_Category
+  from temp_db.an_customer_personas_intuitive;

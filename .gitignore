@@ -1,0 +1,34 @@
+# Credentials and local runtime configuration
+.env
+.env.*
+!.env.example
+**/credentials/
+*.pem
+*.key
+*.p12
+*.pfx
+# Data and generated output
+*.parquet
+*.csv
+*.xlsx
+*.xls
+*.rds
+*.RData
+*.Rhistory
+**/output/
+**/outputs/
+**/logs/
+**/backup/
+**/backups/
+**/temporary/
+# Dependencies and build artifacts
+**/env/
+**/venv/
+**/.venv/
+**/node_modules/
+**/__pycache__/
+*.pyc
+*.exe
+*.dll
+.DS_Store
+Thumbs.db

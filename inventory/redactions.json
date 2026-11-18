@@ -1,0 +1,42 @@
+[
+  {
+    "path": "source/campaign-apis/config.yml",
+    "line": 136
+  },
+  {
+    "path": "source/campaign-apis/Auto/schema_generator_api.R",
+    "line": 14
+  },
+  {
+    "path": "source/campaign-apis/Auto/schema_generator_api.R",
+    "line": 15
+  },
+  {
+    "path": "source/campaign-apis/Auto/library/chatbot_lib.R",
+    "line": 6
+  },
+  {
+    "path": "source/campaign-apis/Auto/library/chatbot_lib.R",
+    "line": 30
+  },
+  {
+    "path": "source/clm-generators/auto/generate/segments/python_scripts/connection.py",
+    "line": 13
+  },
+  {
+    "path": "source/clm-generators/auto/generate/segments/python_scripts/connection.py",
+    "line": 20
+  },
+  {
+    "path": "source/clm-generators/auto/generate/segments/python_scripts/segment_language_state_low_performing_new.py",
+    "line": 40
+  },
+  {
+    "path": "source/clm-generators/auto/library/chatbot-lib.R",
+    "line": 6
+  },
+  {
+    "path": "source/clm-generators/auto/library/chatbot-lib.R",
+    "line": 30
+  }
+]

@@ -1,0 +1,3530 @@
+[
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\analysis",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\backup",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\credentials",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Input",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\output",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rhistory",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\rmd-outputs",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\saved_source_markers",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\pcs\\files-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\pcs\\source-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\pcs\\windowlayoutstate.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\pcs\\workbench-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\prop\\04C47AAA",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\prop\\449F8F05",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\prop\\4765D165",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\prop\\5A1B99A3",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\prop\\6006ABD9",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\prop\\7985065F",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\prop\\7C52CDA2",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\prop\\7E9FE68F",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\prop\\93A572FC",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\prop\\A494E3DC",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\prop\\AA800511",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\prop\\B2D4CEFE",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\prop\\B4723EBC",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\prop\\BA11E6AF",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\prop\\BC5E0ED9",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\prop\\C00EF6A2",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\prop\\F0D3DFE9",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\prop\\F2E8B930",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\prop\\F36DC157",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\prop\\FDBCECB9",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\prop\\INDEX",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\session-83d65a4a\\068B5CEB-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\session-83d65a4a\\1426E381-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\session-83d65a4a\\27CB425A-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\session-83d65a4a\\4525A06F",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\session-83d65a4a\\4525A06F-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\session-83d65a4a\\4F45B60B-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\session-83d65a4a\\5D73BB40-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\session-83d65a4a\\70EE6FDD",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\session-83d65a4a\\70EE6FDD-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\session-83d65a4a\\7CF4578B",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\session-83d65a4a\\7CF4578B-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\session-83d65a4a\\BE0C0654",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\session-83d65a4a\\BE0C0654-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\session-83d65a4a\\BE608AFF-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\session-83d65a4a\\C51011AE-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\session-83d65a4a\\C8F6C5A6-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\session-83d65a4a\\DED9899C-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\session-83d65a4a\\E588EDC5-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\session-83d65a4a\\F768B317-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\session-83d65a4a\\FBE9951E-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\AB97CD14\\sources\\session-83d65a4a\\lock_file",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\rmd-outputs",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\saved_source_markers",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\pcs\\files-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\pcs\\source-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\pcs\\windowlayoutstate.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\pcs\\workbench-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\per\\t\\026DB692",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\per\\t\\026DB692-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\per\\t\\9FA113BD",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\per\\t\\9FA113BD-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\per\\t\\BE21F655",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\per\\t\\BE21F655-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\09F9DB86",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\0F02FCF5",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\1F2922CE",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\2DA81644",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\340C7E3D",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\3EF1D317",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\411E05E7",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\432D515E",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\57707A9C",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\65C35992",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\6DF423E7",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\6F083913",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\8422B168",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\8A7819D1",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\9B9CA30E",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\9BA887E6",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\9BE62540",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\A94B3C2D",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\B3623A47",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\B792A949",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\BCB089EF",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\C0E3C8C6",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\C8177BC2",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\CA44130D",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\CB7CCC26",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\D027029A",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\DDBCF5A0",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\E17137EB",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\EB392E35",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\EEDCBA04",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\F25E5E62",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\F38A5842",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\FFB0D97A",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\E0DB6D85\\sources\\prop\\INDEX",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\shared\\notebooks\\patch-chunk-names",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\.Rproj.user\\shared\\notebooks\\paths",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\backup",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\rsconnect",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\.Rhistory",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\Agg_ATP.zip",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\edit_credentials.R",
+    "reason": "credential-related file; not copied"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\CampaignMaster\\logs",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\CampaignMaster\\_internal",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\CampaignMaster\\.env",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\CampaignMaster\\CampaignMaster.exe",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\flipkart_omni_data_transform\\outputs\\output_7f2475.csv",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\karix_credentials.R",
+    "reason": "credential-related file; not copied"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\limeroad\\output",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.git",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\analysis",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\credentials",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\definitions",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\input",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\logs",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\output",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.RData",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rhistory",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\outputnew_customer_identification.csv",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\build_options",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\persistent-state",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\rmd-outputs",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\saved_source_markers",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\ctx\\ctx-59175\\console_actions",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\ctx\\ctx-59175\\environmentTmp",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\ctx\\ctx-59175\\history",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\ctx\\ctx-59175\\settings",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\ctx\\ctx-61441\\console_actions",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\ctx\\ctx-61441\\environment",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\ctx\\ctx-61441\\environment_vars",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\ctx\\ctx-61441\\history",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\ctx\\ctx-61441\\libpaths",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\ctx\\ctx-61441\\options",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\ctx\\ctx-61441\\rversion",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\ctx\\ctx-61441\\settings",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\ctx\\ctx-61441\\plots_dir\\INDEX",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\pcs\\files-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\pcs\\source-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\pcs\\windowlayoutstate.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\pcs\\workbench-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\per\\t\\04724C74",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\per\\t\\04724C74-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\per\\t\\40FE8FB2",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\per\\t\\40FE8FB2-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\004148A1",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\01886BDA",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\022D7A9F",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\0233A930",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\03BBD6AE",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\080063F1",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\08916CFA",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\09150789",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\0961DCFF",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\099BAB9C",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\0AA3DA3F",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\0E8D2451",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\0EB6FCAF",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\11CA5AF4",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\12CF2843",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\14252FB9",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\15D46E57",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\178413E6",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\1A1ADF84",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\1A7E5C5E",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\1B495C10",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\1C52C371",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\1D43927E",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\1E259D96",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\1E573E4A",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\1F31AE78",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\200E86B9",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\2141F419",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\238F3B94",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\267AD8EE",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\285AED03",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\289CACDE",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\2948D628",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\2A0A9B7A",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\2AC170DA",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\2E469881",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\2F1785AB",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\30F1E8A0",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\31AE6628",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\323E4F07",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\33D7A928",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\3484FC16",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\36AB15B1",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\36F222B2",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\37626544",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\381D2A1D",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\38CA5F4A",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\39D5B227",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\3B75841B",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\3F266A34",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\43DCB206",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\44B8EE73",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\45F26BB7",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\48AA89AA",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\49850ADB",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\49A9BDF1",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\4ACCB3F9",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\4B6EDFBB",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\4F63C65B",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\4FEC18E7",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\508019FF",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\54B0C731",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\550C9BCE",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\57FC5B28",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\58A06E4F",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\5B138955",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\5BFD2DE6",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\5C0F0692",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\5DB95622",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\5F0CC82F",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\61E7CDFC",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\631E14BE",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\6626F564",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\69DD57D3",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\6D60A1D0",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\6DA8CF84",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\6E076ACF",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\6E6C4CB1",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\6F26194D",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\700A9A1F",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\7021CE7D",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\7091DEA0",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\7239A9EB",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\733C740E",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\747E838B",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\75083C4E",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\760C4A01",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\76188186",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\77B7852D",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\79A9165F",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\7A5F767D",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\7C018DE2",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\7C994A04",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\7DC6611B",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\7DCA5709",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\7E992921",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\81236D51",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\81CB3BC0",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\83B1C8C1",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\8436A7D2",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\846351CC",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\8A9ABB3C",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\8BF65303",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\8C6144A3",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\8D04C9E1",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\8E0C35BA",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\95EC116A",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\97CDF61D",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\985F9B25",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\98A741A8",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\993E5D5F",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\9C1BB11E",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\9E0B47B7",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\9F66FF99",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\A048238D",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\A2826537",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\A2AAC464",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\A7DB8566",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\AA3E6E56",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\AAE09A7D",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\AB57DF49",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\ABA4C9D4",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\AD1671C2",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\AD4A21B4",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\ADE1C9CD",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\AEB3359F",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\B11977C2",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\B29E5262",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\B3092394",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\B352AA59",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\B41408BF",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\B4890A02",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\B7579AB1",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\B8E0AAE2",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\BA0A0419",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\BA58C43B",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\BCBA22B5",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\BD89866A",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\BDDDEAB1",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\BE149258",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\BF103F9B",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\BFF0A821",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\C1035F1A",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\C16D2538",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\C27DE097",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\C3B5EA02",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\C4120494",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\C4163FCA",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\C7668559",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\C7B0ACA5",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\C9CB299F",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\CC3A9A81",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\CD5CE6E1",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\CD691FF7",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\CDCCB8EB",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\D53524F8",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\D62394D7",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\D7A222FD",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\D81C3E39",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\D889D002",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\D96A89EA",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\DC2B8FE3",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\DDBA5CD9",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\DE39EF91",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\DEE43D84",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\E07DEC2A",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\E1AD643D",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\E2315F00",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\E2AAC3E0",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\E3E89E45",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\E42930DD",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\E4300F0C",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\E6F6C67D",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\E895F53A",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\E937432D",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\EA32C113",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\EA3886E1",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\EBCF4A8E",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\EBF78956",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\ECDE2F68",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\ECE1D8C9",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\EDFF9B85",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\EF51858B",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\EFD19EF8",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\EFD759A9",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\F26A9236",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\F33184C7",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\F349985E",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\F41EDC7F",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\F427F5DF",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\F5292E48",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\F821E119",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\FBF0B7C7",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\FC84BFB7",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\FCC9A25E",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\FDF2A289",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\FF0AA82E",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\8A5A510B\\sources\\prop\\INDEX",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\rmd-outputs",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\saved_source_markers",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\pcs\\files-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\pcs\\source-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\pcs\\windowlayoutstate.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\pcs\\workbench-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\per\\t\\2DCF9941",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\per\\t\\2DCF9941-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\per\\t\\2FA6CB91",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\per\\t\\2FA6CB91-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\per\\t\\3E1CAD0B",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\per\\t\\3E1CAD0B-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\per\\t\\72FEB026",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\per\\t\\72FEB026-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\per\\t\\7D3F500A",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\per\\t\\7D3F500A-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\per\\t\\A6F68B5D",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\per\\t\\A6F68B5D-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\prop\\0ADA16DE",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\prop\\0BEE760E",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\prop\\0D7B09D6",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\prop\\0EBD1605",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\prop\\13D7907C",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\prop\\202AD4A4",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\prop\\2897DE74",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\prop\\2AF98462",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\prop\\3560A67F",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\prop\\356A87A6",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\prop\\4FD654D6",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\prop\\557B5A9D",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\prop\\6FFF71E2",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\prop\\741E8C2F",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\prop\\8FA673D2",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\prop\\AFAF3041",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\prop\\B2866C1B",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\prop\\DA98933A",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\prop\\F154244D",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\prop\\INDEX",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\session-ea4476ce\\1FB69F4D-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\session-ea4476ce\\27C0F880-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\session-ea4476ce\\431DA34B-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\session-ea4476ce\\552D5A23-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\session-ea4476ce\\598D20F7",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\session-ea4476ce\\598D20F7-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\session-ea4476ce\\A32D5DD1",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\session-ea4476ce\\A32D5DD1-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\session-ea4476ce\\B066F944-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\session-ea4476ce\\E705780F-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\AB97CD14\\sources\\session-ea4476ce\\lock_file",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\persistent-state",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\rmd-outputs",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\saved_source_markers",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\pcs\\debug-breakpoints.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\pcs\\files-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\pcs\\source-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\pcs\\windowlayoutstate.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\pcs\\workbench-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\per\\t\\2E4849BC",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\per\\t\\2E4849BC-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\per\\t\\5DD8D971",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\per\\t\\5DD8D971-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\per\\t\\5DFCCF71",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\per\\t\\5DFCCF71-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\per\\t\\9EA21C95",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\per\\t\\9EA21C95-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\per\\t\\BCB17E39",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\per\\t\\BCB17E39-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\per\\t\\C222E06D",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\per\\t\\C222E06D-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\per\\t\\D068CC5A",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\per\\t\\D068CC5A-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\0573824A",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\0645B0D6",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\08322A7D",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\0A6D0E99",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\0D543BC8",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\0E7D2B54",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\0F2D9E24",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\16EA9701",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\17ACA5ED",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\18221D5C",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\18892B36",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\18DA2AC0",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\1AE842A5",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\2282CAE9",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\23AD6C81",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\266167A3",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\2854AC79",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\2854FE68",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\29550882",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\29F2E5CB",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\2C045823",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\33B767B3",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\341E74FA",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\370BBCD9",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\389222F7",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\3A9B0E37",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\3B45B39D",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\3C3F88F6",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\3D40BFC9",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\3DEC44A4",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\4153720A",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\4764B027",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\48038A93",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\4833EE12",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\4AB56205",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\4E35BA69",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\507844C1",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\509A0316",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\52B71DEA",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\5318A079",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\536C7201",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\5461750E",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\5509192F",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\5528820A",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\56A58593",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\5C5F57FC",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\5E3DAC67",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\5F76B2D1",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\5F7DA9EA",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\60403D21",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\60B53157",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\65D525A3",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\6A801B2C",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\6A845043",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\6C10C98F",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\6D9F4944",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\6F94CCAB",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\759EF6AD",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\77EDFA30",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\799621EB",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\7ABFF4CE",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\7EB609DA",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\8229F7D2",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\86283070",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\88F05669",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\88F1EE7B",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\8A256A24",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\8E18CEA6",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\8E7FBE9F",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\8F091063",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\9995368D",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\9A4B0B2F",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\9C06143D",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\9F342860",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\A1A271B3",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\A1A51AFE",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\A25C74A4",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\A26A29F5",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\A41B91C0",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\A41BDB37",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\A66DA828",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\A6D126FB",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\A96F676C",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\AB19A28E",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\AD62D3D9",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\B382A6FF",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\B568FD37",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\B70DECD4",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\B7DC2297",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\B849E8D7",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\B9614689",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\BB2E5D13",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\BEDEB980",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\BF0EB689",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\C4AFF2A9",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\C751F3B1",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\C964963E",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\CA5DFD9E",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\CB95BC8A",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\D02441E1",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\D1686870",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\D18558AB",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\D210322B",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\D6FBB714",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\D8B07476",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\DD9FB929",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\E01DE922",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\E102B4A4",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\E1380BCB",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\E3523536",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\E3A30DF1",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\E59B2D01",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\E9F8416A",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\EAC1C2B5",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\EC70BE36",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\EC95D393",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\ED9DA8E6",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\EE6D0F92",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\EEA1538A",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\F17501F1",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\F23A2691",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\F33CE434",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\F57A2140",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\F5E120C4",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\F66488AE",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\F803FD6A",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\F94E57B7",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\F97825DA",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\FA87264F",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\FB183789",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\FFB12AAF",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\DC00AC51\\sources\\prop\\INDEX",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\shared\\notebooks\\patch-chunk-names",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.Rproj.user\\shared\\notebooks\\paths",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\extract\\.Rhistory",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\backup",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments.zip",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\backup",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\.Rhistory",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\env",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\segments\\python_scripts\\__pycache__",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.git",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\analysis",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\credentials",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\input",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\output",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\temporary",
+    "reason": "data, credentials, generated artifacts, backup or dependency directory"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rhistory",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\8A5A510B\\rmd-outputs",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\8A5A510B\\saved_source_markers",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\8A5A510B\\pcs\\files-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\8A5A510B\\pcs\\source-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\8A5A510B\\pcs\\windowlayoutstate.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\8A5A510B\\pcs\\workbench-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\8A5A510B\\sources\\per\\t\\0D4C296B",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\8A5A510B\\sources\\per\\t\\0D4C296B-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\8A5A510B\\sources\\prop\\0560D775",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\8A5A510B\\sources\\prop\\B2DB51D5",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\8A5A510B\\sources\\prop\\D1CC5407",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\8A5A510B\\sources\\prop\\INDEX",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\94F78BA1\\sources\\prop\\966D4857",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\94F78BA1\\sources\\prop\\INDEX",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\94F78BA1\\sources\\s-88DB9CA8\\60836BCF-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\94F78BA1\\sources\\s-88DB9CA8\\6ED1B737-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\94F78BA1\\sources\\s-88DB9CA8\\AAAA5C58",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\94F78BA1\\sources\\s-88DB9CA8\\AAAA5C58-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\94F78BA1\\sources\\s-88DB9CA8\\lock_file",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\B83EC467\\rmd-outputs",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\B83EC467\\saved_source_markers",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\B83EC467\\pcs\\files-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\B83EC467\\pcs\\source-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\B83EC467\\pcs\\windowlayoutstate.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\B83EC467\\pcs\\workbench-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\B83EC467\\sources\\per\\t\\11A17CBC",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\B83EC467\\sources\\per\\t\\11A17CBC-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\B83EC467\\sources\\per\\t\\931C0D18",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\B83EC467\\sources\\per\\t\\931C0D18-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\B83EC467\\sources\\per\\t\\C1084457",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\B83EC467\\sources\\per\\t\\C1084457-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\B83EC467\\sources\\prop\\0608F74A",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\B83EC467\\sources\\prop\\49F00CBE",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\B83EC467\\sources\\prop\\C3E6B230",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\B83EC467\\sources\\prop\\INDEX",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\ctx\\ctx-22023\\after_restart_command",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\ctx\\ctx-22023\\console_actions",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\ctx\\ctx-22023\\environmentTmp",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\ctx\\ctx-22023\\history",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\ctx\\ctx-22023\\settings",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\rmd-outputs",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\saved_source_markers",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\ctx\\ctx-11992\\console_actions",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\ctx\\ctx-11992\\environmentTmp",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\ctx\\ctx-11992\\history",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\ctx\\ctx-11992\\settings",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\pcs\\files-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\pcs\\source-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\pcs\\source-window.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\pcs\\windowlayoutstate.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\pcs\\workbench-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\sources\\per\\t\\4AE29D04",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\sources\\per\\t\\4AE29D04-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\sources\\per\\t\\BB892EF9",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\sources\\per\\t\\BB892EF9-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\sources\\prop\\2F1AF428",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\sources\\prop\\445F23C7",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\sources\\prop\\547F4544",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\sources\\prop\\6603B36C",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\sources\\prop\\6C1B2A1D",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\sources\\prop\\8C192D3A",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\sources\\prop\\8C2179DD",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\sources\\prop\\A10A53F9",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\sources\\prop\\C10A2273",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\sources\\prop\\F1426674",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\DC00AC51\\sources\\prop\\INDEX",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\E0DB6D85\\rmd-outputs",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\E0DB6D85\\saved_source_markers",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\E0DB6D85\\pcs\\files-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\E0DB6D85\\pcs\\source-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\E0DB6D85\\pcs\\windowlayoutstate.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\E0DB6D85\\pcs\\workbench-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\E0DB6D85\\sources\\per\\t\\5D16B77E",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\E0DB6D85\\sources\\per\\t\\5D16B77E-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\E0DB6D85\\sources\\per\\t\\89DD59EB",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\E0DB6D85\\sources\\per\\t\\89DD59EB-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\E0DB6D85\\sources\\per\\t\\B193FA92",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\E0DB6D85\\sources\\per\\t\\B193FA92-contents",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\E0DB6D85\\sources\\prop\\2FC47434",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\E0DB6D85\\sources\\prop\\416C1201",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\E0DB6D85\\sources\\prop\\713942EC",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\E0DB6D85\\sources\\prop\\INDEX",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\pcs\\files-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\pcs\\source-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\pcs\\windowlayoutstate.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\pcs\\workbench-pane.pper",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\shared\\notebooks\\patch-chunk-names",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.Rproj.user\\shared\\notebooks\\paths",
+    "reason": "not an allowlisted source/document type"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\bill_mobile_validate.py",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\controller_deliver.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\coupon_campaign_api.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\coupon_execution.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\customer_birthday.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\customer_muslim.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\execution_status_api.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\flipkart_listing_app.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\happiness_agent.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\happiness_agent_execution.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\logs_to_csv.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\lr_campaign_master_api.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\lr_schema_generator_api.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\mobile_bill_validation_api.ipynb",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\process_dlr.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\schedule_lr_campaign_master.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\schedule_pivot_api.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\sms_api_for_js.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\sms_execution.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\store_panel_api.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\sync_data_store_panel.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\update_execution_status.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\waba_execution.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\waba_test.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\wa_api_for_js.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\wa_execution.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\CampaignMaster\\.env.txt",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\CampaignMaster\\load_campaign_master.py",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\CampaignMaster\\README.txt",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\CampaignMaster\\run_load_campaign_master.bat",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\flipkart_omni_data_transform\\app.py",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\flipkart_omni_data_transform\\README.md",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\flipkart_omni_data_transform\\requirements.txt",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\flipkart_omni_data_transform\\.streamlit\\config.toml",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\8.sms_execution_master_ver0.3.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\8.sms_execution_ver0.2.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\8.wa_execution_ver0.1.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\campaign_execution.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\clm_events_lib.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\coupon_execution_lib.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\delivery_logs_lib.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\failed_tasks_taskscheduler.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\filter_api.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\index-lib.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\paths.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\required_period_function(REQUIRED_PERIODS).R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\sms_api_for_js.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\sms_execution_lib.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\sms_execution_lib_2.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\test_library.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\upload_coupons.py",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\waba_execution_lib.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\waba_functions_lib.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\wa_execution_lib.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\wa_execution_lib_2.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\library\\whatsapp_api.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\abv_bucket.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\active_group.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\customer_type.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\discount_tier_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\divisions_multiple summer.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\divisions_multiple_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\diwali_fest_prev_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\diwali_fest_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\early_adopter_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\engaged_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\eoss_early_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\eoss_loyal_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\eoss_ras_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\eoss_roi_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\eoss_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\family_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\favorite_product_category_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\favorite_product_category_segment_01JAN2023.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\favorite_product_category_segment_new.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\fmcg_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\footmart_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\frequency.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\high_frequency_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\high_value_high_freq_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\high_value_one_timer_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\high_value_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\holiday_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\holi_fest_prev_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\holi_fest_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\homemart_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\kids_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\latency_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\mbdo_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\merge_ras_eoss_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\MOM_family_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\muslim_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\new_customers.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\OLD_active_group.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\pdc_fest_prev_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\pdc_fest_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\ras_eoss_ul_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\ras_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\recency_by_latency_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\remove_dnd_customers.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\Season_launch_loyalist.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\Season_launch_SS23_AW23.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\Segment_rfm.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\storewise_active_family_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\storewise_muslim_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\store_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\vip_hbv_2000_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\vip_hbv_5000_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\vip_most_engaged_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\vip_need_more_visits_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\wedding_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\Auto\\segments\\youth_segment.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\host\\host_coupon_execution.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\host\\host_exclude_segments.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\host\\host_execution_status.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\host\\host_flipkart_listing_shiny_app.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\host\\host_live_responders_shiny_app.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\host\\host_multiple.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\host\\host_process_dlr.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\host\\host_sms_api_js.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\host\\host_sms_execution.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\host\\host_store_panel_api.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\host\\host_store_panel_api_2.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\host\\host_waba_execution.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\host\\host_waba_test.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\host\\host_wa_execution.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\host\\host_whatsapp_api_js.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\digital-transformation\\apis\\campaign-apis\\info\\variable_dictionary.json",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\.gitignore",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\extract\\active_store_stock_qty.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\extract\\clm_extract_daily_closing_active_on_ail_stock_qty.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\extract\\clm_extract_daily_closing_active_on_vmart_stock_qty.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\extract\\clm_extract_daily_closing_attribute.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\extract\\clm_extract_daily_closing_barcode.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\extract\\clm_extract_daily_closing_stock_qty.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\extract\\clm_extract_daily_closing_stock_qty_new.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\extract\\clm_extract_daily_closing_stock_qty_new1.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\extract\\clm_extract_daily_closing_vmartdb_active_options.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\extract\\clm_extract_daily_closing_vmartdb_stock_qty.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\extract\\clm_extract_daily_delivery_logs_aws.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\extract\\clm_extract_daily_inventory_snapshot.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\extract\\clm_extract_daily_persistent_customer.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\extract\\clm_extract_daily_psite_customer_prep_aws_data.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\extract\\clm_extract_daily_shopclues_active.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\extract\\clm_extract_store_master.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\extract\\extract_vmartdb_store_master.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\clm_generate_daily_delivery_logs.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\clm_generate_daily_division_shoppers.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\clm_generate_daily_persistent_customer.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\clm_generate_monthly_kirana_customer.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\clm_generate_tilldate_dob_customer.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\adhoc\\clm_generate_schema_master.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\adhoc\\clm_lifeevent_scheduling.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\adhoc\\clm_lifeevent_scheduling_api.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\adhoc\\clm_lifeevent_scheduling_v2.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\adhoc\\refresh_lifeevents.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\anniversary_conversion\\anniversary_incremental_sales.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\anniversary_conversion\\test_anniversary_incremental_sales.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\birthday_conversion\\birthday_customer_last_and_updated_visit_date.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\birthday_conversion\\birthday_incremental_sales - Copy.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\birthday_conversion\\birthday_incremental_sales.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\birthday_conversion\\birthday_pre_journey_no_of_visits.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\birthday_conversion\\rerun_on_old_data_birthday_incremental_sales.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\anniversary_last_three_years.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\apr_may_birthday_data.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\birthday count.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\birthday_conversion.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\birthday_data20JUN-30JUN2024_with_details.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\bottomwear_mens_analysis.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\Common_cust_data_Padri_and_Mohaddipur.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\contribution_combined_marketplaces_in total_sales_FY22-23.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\contribution_marketplaces_in total_sales_FY22-23.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\Customer_kids_tshirt.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\Customer_may_june_2024.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\customer_perf_storewise_datewise_data.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\Customer_Profiling.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\customer_retention.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\Delhi_NCR_customer_data.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\EOSS_RAS_conversion.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\eoss_ras_V2_conversion.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\family_repeated_count.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\fb_campaign.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\freq1_abv_1000.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\freq2_abv_1500.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\high_value_high_freq_Dumka_&_Chas.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\HVHF_conversion.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\IED_impact_on_bussiness.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\impact_of_mbdo_campaign.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\lapsed_retention.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\lapse_april23.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\lapse_april23_avg.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\map_cm_store_name_cust_name.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\mbdo_iddo_calling.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\MOM_famliy_conversion.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\New_Customer_identification_as_per_30sep2023.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\New_Customer_retention.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\New_Customer_retention_all_months_fy22.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\New_Customer_retention_test.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\Next_month_birthday_conversion.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\Previous_month_birthday_conversion.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\RAS_current_year.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\RAS_current_year_all_details.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\RAS_last_year_vs_current_year.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\RAS_last_year_vs_current_year_all_details.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\snapup_details.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\south_roi_return_perc_and_cust_count.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\Storewise_avg_age_of_customer.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\storewise_customer_count_omni(online).R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\testing_for_customer_performance_return_bills.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\test_untagged_txn_data.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\vip_engaged_Dumka_&_Chas.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\vip_need_more_visits_Dumka_&_Chas.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\Wedding_segment(last_one_year).R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\generate\\marketing_team_req_analysis\\conversion_reports\\Shinyapp_Segments_Conversion_Reports.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\library\\clm_events_lib.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\library\\clm_functions.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\library\\clm_sms_execution_lib.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\library\\daily-kpi-lib.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\library\\dreawe-api-lib.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\library\\genome-lib.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\library\\index-lib.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\library\\read_xlsb_function(READ_XLSB).R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\library\\rfm-lib.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\library\\variable_dictionary.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\library\\cpm\\genome-lib.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\library\\cpm\\index-lib.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\clm_generators\\auto\\library\\cpm\\rfm-lib.R",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  },
+  {
+    "source": "\\\\10.0.0.93\\products\\digital_filter_data\\.gitignore",
+    "reason": "outside campaign preparation/segment/filter scope or unreferenced helper"
+  }
+]

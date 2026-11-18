@@ -1,0 +1,17 @@
+# Static import inventory; includes standard library and local modules.
+# Pinned source requirements: ../source/clm-generators/auto/generate/segments/python_scripts/requirement.txt
+clickhouse_connect
+connection
+datetime
+logging
+numpy
+os
+pandas
+pathlib
+query_loader
+re
+shutil
+temp_db
+time
+traceback
+vmart_sales

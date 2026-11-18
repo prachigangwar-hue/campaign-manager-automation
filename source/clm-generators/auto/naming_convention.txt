@@ -1,0 +1,12 @@
+# Naming Convenntion to be followed for clm scripts
+
+# There will be two kind of scripts 
+1. generate
+2. extract
+
+# extract scripts are just to extract data asis from databases
+
+clm_<script type>_<scheduler frequency>_<tag information level 1>_<tag inforation level 2>_<source data>.R
+
+e.g. clm_extract_daily_persistent_transaction.R
+e.g. clm_generate_daily_persistent_transaction.R

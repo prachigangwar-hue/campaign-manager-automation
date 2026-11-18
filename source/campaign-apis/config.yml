@@ -1,0 +1,142 @@
+default:
+  database:
+    vmart: 
+      rfm: 
+        store: 
+          division:
+            offline:
+              tagged:
+                td:
+                  today_7: 'D:/database/rfm/customer/division/offline/tagged/td/'
+          division_group: 
+            offline: 
+              tagged:
+                day: 'D:/database/rfm/store/division_group/offline/tagged/day'
+                td: 
+                  today: 'D:/database/rfm/store/division_group/offline/tagged/td/today'
+                  today_7: 'D:/database/rfm/store/division_group/offline/tagged/td/today_7'
+                fy: 'D:/database/rfm/store/division_group/offline/tagged/fy'
+                cy: 'D:/database/rfm/store/division_group/offline/tagged/cy'
+                month: 'D:/database/rfm/store/division_group/offline/tagged/month'
+            online: 
+                tagged:
+                  day: 'D:/database/rfm/store/division_group/online/tagged/day'
+                  td: 'D:/database/rfm/store/division_group/online/tagged/td'
+                  fy: 'D:/database/rfm/store/division_group/online/tagged/fy'
+                  cy: 'D:/database/rfm/store/division_group/online/tagged/cy'
+                  month: 'D:/database/rfm/store/division_group/online/tagged/month'
+        customer: 
+          division:
+            offline:
+              tagged:
+                td:
+                  today_7: 'D:/database/rfm/customer/division/offline/tagged/td/today_7'
+          division_group: 
+            offline: 
+              tagged:
+                day: 'D:/database/rfm/customer/division_group/offline/tagged/day'
+                td:
+                  today: 'D:/database/rfm/customer/division_group/offline/tagged/td/today'
+                  today_7: 'D:/database/rfm/customer/division_group/offline/tagged/td/today_7'
+                fy: 'D:/database/rfm/customer/division_group/offline/tagged/fy'
+                cy: 'D:/database/rfm/customer/division_group/offline/tagged/cy'
+                month: 'D:/database/rfm/customer/division_group/offline/tagged/month'
+            online: 
+              tagged:
+                day: 'D:/database/rfm/customer/division_group/online/tagged/day'
+                td: 'D:/database/rfm/customer/division_group/online/tagged/td'
+                fy: 'D:/database/rfm/customer/division_group/online/tagged/fy'
+                cy: 'D:/database/rfm/customer/division_group/online/tagged/cy'
+                month: 'D:/database/rfm/customer/division_group/online/tagged/month'
+      cpm:
+        customer:
+          department:
+            td:
+              today_7: 'D:/database/cpm/customer/department/td/today_7'
+      clm_comm:
+        birthday: "D:/products/clm_comm/input/birthday"
+        anniversary: "D:/products/clm_comm/input/anniversary"
+      segment:
+        seg_family: "D:/database/seg/family"
+        seg_discount_tier: "D:/database/seg/discount_tier"
+        seg_fmcg: "D:/database/seg/fmcg"
+        seg_footmart: "D:/database/seg/footmart"
+        seg_dnd: "D:/database/seg/dnd"
+        seg_high_value_one_timer: "D:/database/seg/high_value_one_timer"
+        seg_early_adopter: "D:/database/seg/early_adopter"
+        seg_engaged: "D:/database/seg/engaged"
+        seg_eoss_early: "D:/database/seg/eoss_early"
+        seg_eoss_loyal: "D:/database/seg/eoss_loyal"
+        seg_homemart: "D:/database/seg/homemart"
+        seg_latency: "D:/database/seg/latency"
+        seg_youth: "D:/database/seg/youth"
+        seg_tso_availer: "D:/database/seg/tso_availer"
+        seg_game_player: "D:/database/seg/game_player"
+        vip: "D:/database/seg/vip"
+        seg_muslim: "D:/database/seg/muslim"
+        customer_type: "D:/database/seg/customer_type"
+        abv_bucket: "D:/database/seg/abv_bucket"
+        active_group: "D:/database/seg/active_group"
+        frequency: "D:/database/seg/frequency"
+        segment: "D:/database/seg/Segment"
+        seg_new_customer: "D:/database/seg/new_customer"
+        seg_fpc_new: "D:/database/seg/fpc_new"
+        seg_eoss: "D:/database/seg/eoss"
+        seg_r_l: "D:/database/seg/recency_by_latency"
+        seg_pdc: "D:/database/seg/pdc"
+        seg_anniversary: "D:/database/seg/anniversary"
+        seg_wedding: "D:/database/seg/wedding"
+        seg_mbdo_iddo: "D:/database/seg/mbdo_iddo"
+        seg_divisions_multiple: "D:/database/seg/division_multiple"
+        seg_season_launch_loyalist: "D:/database/seg/season_launch_loyalist"
+        seg_season_launch: "D:/database/seg/season_launch"
+        seg_age_group: "D:/database/seg/age_group"
+        seg_winter: "D:/database/seg/winter"
+        seg_lr_status: "D:/database/seg/lr_status"
+        seg_customer_value_tier: "D:/database/seg/seg_customer_value_tier"
+        seg_customer_value_bucket: "D:/database/seg/seg_customer_value_bucket"
+        seg_inferred_household_structure: "D:/database/seg/seg_inferred_household_structure"
+        seg_sms_reachable_customers: "D:/database/seg/seg_sms_reachable_customers"
+        seg_rcs_reachable_customers: "D:/database/seg/seg_rcs_reachable_customers"
+        seg_waba_reachable_customers: "D:/database/seg/seg_waba_reachable_customers"
+        seg_fmcg_new: "D:/database/seg/seg_fmcg_new"
+        seg_teenz: "D:/database/seg/seg_teenz"
+        seg_most_preferred_division: "D:/database/seg/seg_most_preferred_division"   
+        seg_coupon_users: "D:/database/seg/seg_coupon_users"
+        seg_store_type: "D:/database/seg/seg_store_type"
+        seg_lr_app_active: "D:/database/seg/seg_lr_app_active"
+        seg_season_winter: "D:/database/seg/seg_season_winter"
+        seg_season_summer: "D:/database/seg/seg_season_summer"
+        seg_religion: "D:/database/seg/seg_religion"
+        seg_language: "D:/database/seg/seg_language"
+        seg_state: "D:/database/seg/seg_state"
+        seg_low_performing_store : "D:/database/seg/seg_low_performing_store"
+        seg_active_store : "D:/database/seg/seg_active_store"
+        
+        
+    master:
+      store_auto: "D:/database/mstr/store_auto"
+      store: "D:/database/mstr/store"
+      medium: "D:/database/mstr/medium"
+      str_tag: "D:/digital-transformation/apis/campaign-apis/Input"
+    gsheets:
+      segment: 
+        url: "https://docs.google.com/spreadsheets/d/1XjYHHqSI1spWmETwuk0hUGJgL92ywAM6GfCQKSngKVQ/edit#gid=59397824"
+        sheet: "prepare_master"
+        online_sheet: "limeroad_segments"
+    credentials:
+      username: 'abhishek.agnihotri@vmartretail.com'
+      username_pmo: 'pmo@vmartretail.com'
+    
+    redshift:
+      host:     "jdbc:redshift://data-redshift.limeroad.com:5439/test?ssl=false"
+      port:     5439
+      dbname:   "test"
+      user:     "hashir"
+      password: "REDACTED_REQUIRED"   # TODO: move to env var or secrets manager
+    limeroad:
+      output:
+        masters_temp: "D:/digital-transformation/apis/campaign-apis/limeroad/output/masters_temp"
+        masters:      "D:/digital-transformation/apis/campaign-apis/limeroad/Output/masters"
+        schema:       "D:/digital-transformation/apis/campaign-apis/limeroad/Output/schema"
+    

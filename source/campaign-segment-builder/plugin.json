@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "campaign-segment-builder",
+  "version": "0.1.0",
+  "description": "Create Campaign Manager segments through reviewed ClickHouse SQL, Python generators, Server 93 scheduling, and Sheet/config registration.",
+  "author": { "name": "Prachi Gangwar" },
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Campaign Segment Builder",
+        "shortDescription": "Campaign segment workflow",
+        "longDescription": "Follows the Campaign Master process and Prachi's segment workflow. Prepares SQL for review, then implements approved Python generation, deployment, daily scheduling, and registration. Uses existing host connections and requires approval before production changes.",
+        "developerName": "Prachi Gangwar",
+        "category": "Productivity",
+        "capabilities": [],
+        "defaultPrompt": ["Naya campaign segment banana hai. Objective se shuru karo aur query review ke liye do."],
+        "brandColor": "#2563EB"
+      }
+    }
+  }
+}

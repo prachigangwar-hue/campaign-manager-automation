@@ -1,0 +1,370 @@
+[
+  {
+    "caller": "source/campaign-apis/Auto/admin_panel_api.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/campaign-apis/Auto/backup_schema.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/campaign-apis/Auto/campaign_master_api.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/campaign-apis/Auto/campaign_master_api.R",
+    "reference": "chatbot-lib.R"
+  },
+  {
+    "caller": "source/campaign-apis/Auto/campaign_master_api.R",
+    "reference": "rfm-lib.R"
+  },
+  {
+    "caller": "source/campaign-apis/Auto/check_customer_type_api.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/campaign-apis/Auto/data_export_api.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/campaign-apis/Auto/data_save_api.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/campaign-apis/Auto/generate_calcualated_fields.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/campaign-apis/Auto/library/data_save_api.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/campaign-apis/Auto/schedule_campaign_master.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/campaign-apis/Auto/schema_generator_api.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/campaign-apis/Auto/update_admin_panel.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/campaign-apis/host/host_admin_panel.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/campaign-apis/host/host_campaign_master_api.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/campaign-apis/host/host_check_customer_type.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/campaign-apis/host/host_data_export.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/campaign-apis/host/host_data_fetch_api.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/campaign-apis/host/host_data_save_api.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/campaign-apis/host/host_schema_generator.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/campaign-apis/host/host_variable_dictionary.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/clm_generate_daily_customer_segments.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/MOM_family_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/OLD_active_group.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/Season_launch_SS23_AW23.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/Season_launch_loyalist.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/Segment_rfm.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/abv_bucket.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/active_group.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/customer_type.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/customer_value_bucket_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/discount_tier_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/divisions_multiple summer.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/divisions_multiple_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/diwali_fest_prev_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/diwali_fest_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/dob_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/early_adopter_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/engaged_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/eoss_early_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/eoss_loyal_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/eoss_ras_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/eoss_roi_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/eoss_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/family_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/favorite_product_category_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/favorite_product_category_segment_01JAN2023.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/favorite_product_category_segment_new.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/fmcg_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/footmart_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/frequency.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/high_frequency_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/high_value_high_freq_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/high_value_one_timer_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/high_value_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/holi_fest_prev_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/holi_fest_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/holiday_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/homemart_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/kids_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/latency_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/mbdo_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/merge_ras_eoss_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/most_preferred_division.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/muslim_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/new_customers.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/pdc_fest_prev_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/pdc_fest_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/ras_eoss_ul_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/ras_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/rcs_reachable_customers_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/recency_by_latency_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/remove_dnd_customers.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/segment_store_type.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/sms_reachable_customers_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/store_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/storewise_active_family_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/storewise_muslim_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/summer_season_early_adopters.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/vip_hbv_2000_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/vip_hbv_5000_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/vip_most_engaged_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/vip_need_more_visits_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/waba_reachable_customers_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/wedding_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/winter_season_early_adopters.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/winter_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/clm-generators/auto/generate/segments/youth_segment.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/digital-filter-data/auto/filter_api.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/digital-filter-data/auto/filter_api_final.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/digital-filter-data/auto/testing_data_filter.R",
+    "reference": "C:/R - Projects/library.R"
+  },
+  {
+    "caller": "source/digital-filter-data/host/host_filter_api.R",
+    "reference": "C:/R - Projects/library.R"
+  }
+]

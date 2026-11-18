@@ -1,0 +1,124 @@
+default:
+  database:
+    vmart: 
+      rfm: 
+        store: 
+          division: 
+          division_group: 
+            offline: 
+              tagged:
+                day: 'D:/database/rfm/store/division_group/offline/tagged/day'
+                td: 
+                  today: 'D:/database/rfm/store/division_group/offline/tagged/td/today'
+                  today_7: 'D:/database/rfm/store/division_group/offline/tagged/td/today_7'
+                cy: 'D:/database/rfm/store/division_group/offline/tagged/cy'
+                month: 'D:/database/rfm/store/division_group/offline/tagged/month'
+            online: 
+                tagged:
+                  day: 'D:/database/rfm/store/division_group/online/tagged/day'
+                  td: 'D:/database/rfm/store/division_group/online/tagged/td'
+                  fy: 'D:/database/rfm/store/division_group/online/tagged/fy'
+                  cy: 'D:/database/rfm/store/division_group/online/tagged/cy'
+                  month: 'D:/database/rfm/store/division_group/online/tagged/month'
+        customer: 
+          division: 
+            offline: 
+              tagged:
+                day: 'D:/database/rfm/customer/division/offline/tagged/day'
+                td:
+                  today: 'D:/database/rfm/customer/division/offline/tagged/td/today'
+                  today_7: 'D:/database/rfm/customer/division/offline/tagged/td/today_7'
+                fy:
+                  all: 'D:/database/rfm/store/division_group/offline/tagged/fy/all'
+                cy: 'D:/database/rfm/customer/division/offline/tagged/cy'
+                month: 'D:/database/rfm/customer/division/offline/tagged/month'
+          division_group: 
+            offline: 
+              tagged:
+                day: 'D:/database/rfm/customer/division_group/offline/tagged/day'
+                td:
+                  today: 'D:/database/rfm/customer/division_group/offline/tagged/td/today'
+                  today_7: 'D:/database/rfm/customer/division_group/offline/tagged/td/today_7'
+                fy: 
+                  all: 'D:/database/rfm/customer/division_group/offline/tagged/fy/all'
+                cy: 'D:/database/rfm/customer/division_group/offline/tagged/cy'
+                month: 'D:/database/rfm/customer/division_group/offline/tagged/month'
+            online: 
+              tagged:
+                day: 'D:/database/rfm/customer/division_group/online/tagged/day'
+                td: 'D:/database/rfm/customer/division_group/online/tagged/td'
+                fy: 'D:/database/rfm/customer/division_group/online/tagged/fy'
+                cy: 'D:/database/rfm/customer/division_group/online/tagged/cy'
+                month: 'D:/database/rfm/customer/division_group/online/tagged/month'
+      segment:
+        family: "D:/database/seg/family"
+        discount_tier: "D:/database/seg/discount_tier"
+        fmcg: "D:/database/seg/fmcg"
+        footmart: "D:/database/seg/footmart"
+        high_value_one_timer: "D:/database/seg/high_value_one_timer"
+        homemart: "D:/database/seg/homemart"
+        eoss_early: "D:/database/seg/eoss_early"
+        eoss_loyal: "D:/database/seg/eoss_loyal"
+        engaged: "D:/database/seg/engaged"
+        youth: "D:/database/seg/youth"
+        high_value: "D:/database/seg/high_value"
+        high_frequency: "D:/database/seg/high_frequency"
+        division_multiple: "D:/database/seg/division_multiple"
+        seg_mstr: "D:/database/seg/seg_mstr"
+        abv_bucket: "D:/database/seg/abv_bucket"
+        customer_type: "D:/database/seg/customer_type"
+        muslim: "D:/database/seg/muslim"
+        vip_most_engaged: "D:/database/seg/vip_most_engaged"
+        vip_hbv_5000: "D:/database/seg/vip_hbv_5000"
+        vip_hbv_2000: "D:/database/seg/vip_hbv_2000"
+        frequency: "D:/database/seg/frequency"
+        Segment: "D:/database/seg/Segment"
+        vip_need_more_visits: "D:/database/seg/vip_need_more_visits"
+        early_adopter: "D:/database/seg/early_adopter"
+        active_group: "D:/database/seg/active_group"
+        kids: "D:/database/seg/kids"
+        new_customer: "D:/database/seg/new_customer"
+        holi: "D:/database/seg/holi"
+        prev_holi: "D:/database/seg/prev_holi"
+        diwali: "D:/database/seg/diwali"
+        prev_diwali: "D:/database/seg/prev_diwali"
+        fpc: "D:/database/seg/fpc"
+        fpc_new: "D:/database/seg/fpc_new"
+        age_group: "D:/database/seg/age_group"
+        storewise_muslim: "D:/database/seg/storewise_muslim"
+        active_group_new: "D:/database/seg/active_group_new"
+        latency: "D:/database/seg/latency"
+        mbdo: "D:/database/seg/mbdo"
+        storewise_active_family: "D:/database/seg/storewise_active_family"
+        storewise_wedding: "D:/database/seg/storewise_wedding"
+        storewise_holiday: "D:/database/seg/storewise_holiday"
+        high_value_high_freq: "D:/database/seg/high_value_high_freq"
+        eoss_ras: "D:/database/seg/eoss_ras"
+        storewise_store_customer: "D:/database/seg/storewise_store_customer"
+        eoss_ras_v2: "D:/database/seg/eoss_ras_v2"
+        mom_family: "D:/database/seg/mom_family"
+        recency_by_latency: "D:/database/seg/recency_by_latency"
+        eoss: "D:/database/seg/eoss"
+        prev_pdc: "D:/database/seg/prev_pdc"
+        pdc: "D:/database/seg/pdc"
+    transaction:
+      offline: "D:/database/txn/offline/generate/day"
+      online: "D:/database/txn/online/generate/day"
+    master:
+      store_auto: "D:/database/mstr/store_auto"
+      store: "D:/database/mstr/store"
+      medium: "D:/database/mstr/medium"
+      segment: "D:/database/mstr/segment"
+    gsheets:
+      segment: 
+        url: "https://docs.google.com/spreadsheets/d/1XjYHHqSI1spWmETwuk0hUGJgL92ywAM6GfCQKSngKVQ/edit#gid=59397824"
+        sheet: "prepare_master"
+    email: "abhishek.agnihotri@vmartretail.com"
+  products:
+    omni_daily_report:
+      auto:
+        library: "D:/products/omni_daily_report/auto/library"
+        generate: "D:/products/omni_daily_report/auto/generate"
+      input: "D:/products/omni_daily_report/input"
+      output: "D:/products/omni_daily_report/output"
+      logs: "D:/products/omni_daily_report/logs"
